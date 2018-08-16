@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Waypoints
+  - Enemies
+  - Bomb
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerGhost
+  - Platforms
+  - PlatformsGhost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1508690349
+    locked: 0
+  - name: Player
+    uniqueID: 1366992157
+    locked: 0
+  - name: Gun
+    uniqueID: 1535268831
+    locked: 0
+  - name: New Layer
+    uniqueID: 33445969
+    locked: 0
