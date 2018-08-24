@@ -11,12 +11,15 @@ public class PathFollower : MonoBehaviour {
     
 
     public bool arrived;
+    public bool flip;
     private Transform target;
 
     private int ArrayDirection = 1;
+    bool flipped;
 
     private void Start()
     {
+        flipped = false;
         StartCoroutine(MoveToPoint(path[0]));
     }
 
@@ -46,6 +49,24 @@ public class PathFollower : MonoBehaviour {
         StartCoroutine(MoveToPoint(target));
     }
 
+    public void FlipFish()
+    {
+        if (!flip) { return; }
+        float i = 0;
+        if (flipped)
+        {
+            i = -1;
+            flipped = false;
+        }
+        else
+        {
+            i = 1;
+            flipped = true;
+        }
+        
+        gameObject.transform.localScale = new Vector3(i, 1, 1);
+    }
+
     IEnumerator MoveToPoint(Transform point)
     {
         while(!arrived)
@@ -55,6 +76,7 @@ public class PathFollower : MonoBehaviour {
             if (Vector3.Distance(transform.position, point.position) < 0.1)
             {
                 arrived = true;
+                FlipFish();
                 SetNextPoint();
                 yield break;
             }

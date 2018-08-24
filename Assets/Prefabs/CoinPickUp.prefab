@@ -122,4 +122,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CoinVFX: {fileID: 1699829743977866, guid: 4bf42bf2031e5c14ca55af104a0067f4, type: 2}
-  coinCollectSFX: {fileID: 0}
+  coinCollectSFX: {fileID: 8300000, guid: 0f210310bcecbfd43b951fe146c68d58, type: 3}
