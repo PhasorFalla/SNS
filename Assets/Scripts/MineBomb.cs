@@ -18,6 +18,17 @@ public class MineBomb : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player" && !triggered)
+        {
+            FanReset.deathzone.ResetEntity(collision.gameObject);
+            triggered = true;
+            if (mineBombSFX != null) { AudioManager.audioManager.PlaySound(mineBombSFX); }
+            StartCoroutine(bombResetTimer());
+        }
+    }
+
 
     IEnumerator bombResetTimer()
     {

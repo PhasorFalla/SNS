@@ -6,7 +6,7 @@ public class CheckpointSystem : MonoBehaviour
 {
 
     public Transform Spawnpoint;
-    public GameObject checkpointBeam;
+    public GameObject checkpointLight;
     public Material mat;
     public AudioClip checkpointSFX;
 
@@ -14,12 +14,14 @@ public class CheckpointSystem : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
+
             FanReset.deathzone.spawnpoint = Spawnpoint;
             if(checkpointSFX != null) { AudioManager.audioManager.PlaySound(checkpointSFX); }
-            if(checkpointBeam != null)
+            if(checkpointLight != null)
             {
-                checkpointBeam.GetComponent<MeshRenderer>().material = mat;
+                checkpointLight.GetComponent<MeshRenderer>().material = mat;
             }
+
         }
     }
 }
