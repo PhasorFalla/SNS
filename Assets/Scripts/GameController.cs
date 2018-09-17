@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour {
 
     public Transform canvas;
-    private bool isPaused;
+    public bool isPaused;
     public GameObject GameWorldSource;
     public GameObject currentGameWorld;
 

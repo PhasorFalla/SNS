@@ -2500,6 +2500,7 @@ GameObject:
   - component: {fileID: 114064175151588382}
   - component: {fileID: 58030912243216012}
   - component: {fileID: 114769532060502144}
+  - component: {fileID: 50474258109335432}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -3071,6 +3072,7 @@ GameObject:
   - component: {fileID: 60409360419058726}
   - component: {fileID: 114776243414366806}
   - component: {fileID: 114070388125487898}
+  - component: {fileID: 50181187785509248}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -4170,6 +4172,7 @@ GameObject:
   - component: {fileID: 114088353458417388}
   - component: {fileID: 58008493562173038}
   - component: {fileID: 114898450069521134}
+  - component: {fileID: 50506992854281550}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -5429,6 +5432,7 @@ GameObject:
   - component: {fileID: 58974992139916116}
   - component: {fileID: 114121348401393932}
   - component: {fileID: 114586185559821618}
+  - component: {fileID: 50263576424898228}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -6566,6 +6570,7 @@ GameObject:
   - component: {fileID: 114683910312187668}
   - component: {fileID: 58319436100766428}
   - component: {fileID: 114977167342899154}
+  - component: {fileID: 50594818929999306}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -6895,6 +6900,7 @@ GameObject:
   - component: {fileID: 114064023871980630}
   - component: {fileID: 58166057049699574}
   - component: {fileID: 114122786901042802}
+  - component: {fileID: 50499577427375074}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -8869,6 +8875,7 @@ GameObject:
   - component: {fileID: 60456759290073198}
   - component: {fileID: 114205075460675706}
   - component: {fileID: 114758181263771452}
+  - component: {fileID: 50444347645001826}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -9056,6 +9063,7 @@ GameObject:
   - component: {fileID: 60392816628449688}
   - component: {fileID: 114935407487359204}
   - component: {fileID: 114029624204675678}
+  - component: {fileID: 50417770218651644}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -10957,6 +10965,7 @@ GameObject:
   - component: {fileID: 60337545764482544}
   - component: {fileID: 114626313541775516}
   - component: {fileID: 114659692521183086}
+  - component: {fileID: 50654282474464212}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -11946,6 +11955,7 @@ GameObject:
   - component: {fileID: 60026270477511244}
   - component: {fileID: 114236745460509304}
   - component: {fileID: 114066825205305890}
+  - component: {fileID: 50042371257101396}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -13829,6 +13839,7 @@ GameObject:
   - component: {fileID: 114826277331356292}
   - component: {fileID: 58212619789679860}
   - component: {fileID: 114510626985143700}
+  - component: {fileID: 50255449794743158}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -14950,6 +14961,7 @@ GameObject:
   - component: {fileID: 114926291069183584}
   - component: {fileID: 58017122390691052}
   - component: {fileID: 114654879741690644}
+  - component: {fileID: 50917806107916010}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -18826,6 +18838,7 @@ GameObject:
   - component: {fileID: 114278315457978018}
   - component: {fileID: 58228629547663940}
   - component: {fileID: 114039460272380752}
+  - component: {fileID: 50321076812287718}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -19422,6 +19435,7 @@ GameObject:
   - component: {fileID: 114706304131613030}
   - component: {fileID: 58505224597451178}
   - component: {fileID: 114417147571495110}
+  - component: {fileID: 50676502398606454}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -22034,6 +22048,7 @@ GameObject:
   - component: {fileID: 114919995934211724}
   - component: {fileID: 58105050880199854}
   - component: {fileID: 114671614548487948}
+  - component: {fileID: 50167000339613738}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -23837,6 +23852,7 @@ GameObject:
   - component: {fileID: 114266115883421346}
   - component: {fileID: 58376009232857726}
   - component: {fileID: 114422802539989730}
+  - component: {fileID: 50595607491896880}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -24438,6 +24454,7 @@ GameObject:
   - component: {fileID: 114399974979343900}
   - component: {fileID: 58229813543273940}
   - component: {fileID: 114369665268327550}
+  - component: {fileID: 50757565066149318}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -25976,6 +25993,7 @@ GameObject:
   - component: {fileID: 60106054148653992}
   - component: {fileID: 114064352217602824}
   - component: {fileID: 114319584348015280}
+  - component: {fileID: 50721024969334678}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -26473,6 +26491,7 @@ GameObject:
   - component: {fileID: 114335935019856434}
   - component: {fileID: 58522407881110346}
   - component: {fileID: 114035770613675220}
+  - component: {fileID: 50470817089313086}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemies
@@ -76258,6 +76277,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50042371257101396
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1415942285501924}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 6
 --- !u!50 &50065463392873030
 Rigidbody2D:
   serializedVersion: 4
@@ -76398,6 +76437,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50167000339613738
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1765751991129638}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
+--- !u!50 &50181187785509248
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1108998907593678}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 6
 --- !u!50 &50198067721839746
 Rigidbody2D:
   serializedVersion: 4
@@ -76498,6 +76577,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50255449794743158
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1481646665867818}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
+--- !u!50 &50263576424898228
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1178058303927710}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50264859419362042
 Rigidbody2D:
   serializedVersion: 4
@@ -76658,6 +76777,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50321076812287718
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1655937622811196}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50321469410693930
 Rigidbody2D:
   serializedVersion: 4
@@ -76798,6 +76937,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50417770218651644
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1310227138960216}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 6
 --- !u!50 &50431364333674366
 Rigidbody2D:
   serializedVersion: 4
@@ -76838,6 +76997,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50444347645001826
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1305352659569148}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 6
 --- !u!50 &50452972578393420
 Rigidbody2D:
   serializedVersion: 4
@@ -76898,6 +77077,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50470817089313086
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1929199197980822}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
+--- !u!50 &50474258109335432
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1087015546846050}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50490031496326338
 Rigidbody2D:
   serializedVersion: 4
@@ -76918,6 +77137,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50499577427375074
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1231730588419508}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
+--- !u!50 &50506992854281550
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143966339640974}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50521422133826576
 Rigidbody2D:
   serializedVersion: 4
@@ -77058,6 +77317,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50594818929999306
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1222273740491718}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
+--- !u!50 &50595607491896880
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1837625083425630}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50605783211726294
 Rigidbody2D:
   serializedVersion: 4
@@ -77158,6 +77457,46 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50654282474464212
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1383630257551218}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 6
+--- !u!50 &50676502398606454
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1678022659696946}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50714176525469446
 Rigidbody2D:
   serializedVersion: 4
@@ -77178,6 +77517,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50721024969334678
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1912432652586828}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 6
 --- !u!50 &50728460662166130
 Rigidbody2D:
   serializedVersion: 4
@@ -77278,6 +77637,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50757565066149318
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1859274133322182}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50759798474164662
 Rigidbody2D:
   serializedVersion: 4
@@ -77398,6 +77777,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!50 &50917806107916010
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1522491566861116}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!50 &50921765466675490
 Rigidbody2D:
   serializedVersion: 4
@@ -92101,6 +92500,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4029466570469832}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -92423,6 +92825,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4759534049165864}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -92733,6 +93138,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4418868610806138}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -93444,6 +93852,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4657798951673676}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -93683,6 +94094,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4437160258812448}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -93832,6 +94246,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4225434842178160}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -94577,6 +94994,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4438089764039734}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -94829,6 +95249,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4902022666595062}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
@@ -95317,6 +95740,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawnpoint: {fileID: 4434150725428872}
+  onBeacon: {fileID: 0}
+  offBeacon: {fileID: 0}
+  burst: {fileID: 0}
   checkpointLight: {fileID: 0}
   mat: {fileID: 0}
   checkpointSFX: {fileID: 0}
