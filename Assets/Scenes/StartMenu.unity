@@ -691,6 +691,14 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.09247235
       objectReference: {fileID: 0}
+    - target: {fileID: 1113579902662402, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1324038977623534, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
   m_IsPrefabParent: 0
@@ -751,6 +759,7 @@ GameObject:
   - component: {fileID: 1095565097}
   - component: {fileID: 1095565099}
   - component: {fileID: 1095565098}
+  - component: {fileID: 1095565100}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -815,6 +824,20 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1095565096}
+--- !u!114 &1095565100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1095565096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0.2784314, b: 0.49803922, a: 0.83137256}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
 --- !u!1 &1128334653
 GameObject:
   m_ObjectHideFlags: 0

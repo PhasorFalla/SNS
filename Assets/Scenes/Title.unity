@@ -1599,7 +1599,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Alexey Botkov, 18 Carat Affair, Karina Peneha
+  m_Text: Karina Peneha, Alexey Botkov
 --- !u!222 &967345020
 CanvasRenderer:
   m_ObjectHideFlags: 0
