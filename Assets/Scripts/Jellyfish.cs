@@ -4,22 +4,50 @@ using UnityEngine;
 
 public class Jellyfish : MonoBehaviour
 {
+    public AudioClip deathSFX;
+    public ParticleSystem deathVFX;
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player"))
         {
+            other.gameObject.GetComponent<Grapple>().Detatch();
+            FanReset.deathzone.ResetEntity(other.gameObject);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+
+            if (other.gameObject.GetComponent<Grapple>().tethered)
+            {
+                other.gameObject.GetComponent<Grapple>().Detatch();
+                FanReset.deathzone.ResetEntity(other.gameObject);
+
+            }
+            else
+            {
+
+                EnemyDeath();
+            }
+
+
+
 
         }
     }
 
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    if (collision.gameObject.CompareTag("Player"))
-    //    {
-    //        GetComponent<Enemy>().EnemyDeath();
-    //    }
-    //}
+    public void EnemyDeath()
+    {
+        if (deathSFX != null)
+        {
+            AudioManager.audioManager.PlaySound(deathSFX);
+        }
+        Instantiate(deathVFX, transform.position, Quaternion.identity);
+        Destroy(gameObject);
+    }
 
 
 }
