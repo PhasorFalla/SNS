@@ -223,10 +223,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TileGroupName: Enemy
   TileObjects:
-  - {fileID: 1006648716983516, guid: 519d3b8622621cf4b9c6d3255f873765, type: 2}
+  - {fileID: 1468084344028314, guid: e40fcdda200ac114e94e18825acd2f39, type: 2}
   - {fileID: 1672378232737788, guid: 8edfdb0d494a92d44ba9cae2fe07fb0c, type: 2}
-  - {fileID: 1982912322917240, guid: 27ecfdceb61623d4880eff2f9222197f, type: 2}
-  - {fileID: 1712142921044256, guid: 8d8eff44c3edb5044ae91a8b06b58eef, type: 2}
+  - {fileID: 1326874793250830, guid: 3e394b37b0b21364c97d7f3782640692, type: 2}
+  - {fileID: 1280415603812916, guid: 5bfe0bcfbf0ddde4492d179f6a412bb7, type: 2}
 --- !u!1 &105374630
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,7 +372,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 572907044}
+  m_TargetGraphic: {fileID: 155260993}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -635,7 +635,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 233615686}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 58.051144, y: 35.192646, z: 3.6875}
+  m_LocalPosition: {x: 50.2, y: 32.8, z: 3.6875}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1396599125}
@@ -1052,7 +1052,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -1122,8 +1122,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 288.80954, y: -18.91795}
-  m_SizeDelta: {x: 105.163124, y: 31.8359}
+  m_AnchoredPosition: {x: 240.97511, y: -15.793886}
+  m_SizeDelta: {x: 87.56253, y: 25.587772}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &402579870
 MonoBehaviour:
@@ -1160,7 +1160,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 617585455}
+  m_TargetGraphic: {fileID: 402579871}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -1825,8 +1825,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 54.349182, y: -18.91795}
-  m_SizeDelta: {x: 102.698364, y: 31.8359}
+  m_AnchoredPosition: {x: 45.755142, y: -15.793886}
+  m_SizeDelta: {x: 85.510284, y: 25.587772}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &637558976
 GameObject:
@@ -2020,7 +2020,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 572907044}
+  m_TargetGraphic: {fileID: 639030991}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -3102,7 +3102,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1022440376
 Transform:
   m_ObjectHideFlags: 0
@@ -3153,6 +3153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnpoint: {fileID: 0}
+  playerDeathSFX: {fileID: 0}
   GC: {fileID: 0}
 --- !u!114 &1022440379
 MonoBehaviour:
@@ -3166,6 +3167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 0}
+  isPaused: 0
   GameWorldSource: {fileID: 0}
   currentGameWorld: {fileID: 0}
 --- !u!1 &1030055252
@@ -3752,7 +3754,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 572907044}
+  m_TargetGraphic: {fileID: 1299819577}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -4314,10 +4316,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TileGroupName: Platform
   TileObjects:
-  - {fileID: 1207834787362074, guid: a807f8fe7b2819346b59ecd0c98387ad, type: 2}
-  - {fileID: 1603352505935086, guid: 24451d8c39ac2ed49999e513d5ba8b3b, type: 2}
-  - {fileID: 1257394444245668, guid: 03c3edf6e39bee94ca98df6618c92a6b, type: 2}
-  - {fileID: 1335395741181958, guid: 7242d647315ecea47b6d6fe9c45b1d7f, type: 2}
+  - {fileID: 1075271542805294, guid: 3d1ef62a3bab97c4aa0053c58b46dd4a, type: 2}
+  - {fileID: 1441918847938246, guid: 2cebde93ad9f10943bbc2ab60296d12f, type: 2}
+  - {fileID: 1302139220096352, guid: 34a0e45718e278f459e427fc343238bb, type: 2}
+  - {fileID: 1918975278055964, guid: 17aff4133ea7c0143a92bd79a5de613f, type: 2}
+  - {fileID: 1035988080649488, guid: 0fc4cb2a183fa1446b3b52ea4bc4796f, type: 2}
 --- !u!1 &1359407615
 GameObject:
   m_ObjectHideFlags: 0
@@ -4631,8 +4634,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 170.96317, y: -18.91795}
-  m_SizeDelta: {x: 130.52962, y: 31.8359}
+  m_AnchoredPosition: {x: 142.85207, y: -15.793886}
+  m_SizeDelta: {x: 108.68357, y: 25.587772}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1483964907
 MonoBehaviour:
@@ -4669,7 +4672,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 617585455}
+  m_TargetGraphic: {fileID: 1483964908}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -4930,8 +4933,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 392.7403, y: -18.91795}
-  m_SizeDelta: {x: 102.698364, y: 31.8359}
+  m_AnchoredPosition: {x: 327.51154, y: -15.793886}
+  m_SizeDelta: {x: 85.510284, y: 25.587772}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1605817900
 MonoBehaviour:
@@ -4968,7 +4971,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 617585455}
+  m_TargetGraphic: {fileID: 1605817901}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -5113,7 +5116,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -5208,11 +5211,23 @@ MonoBehaviour:
   Level: {fileID: 1718448438}
   objectType: 0
   TilePallete: []
-  TileGroup:
-  - {fileID: 1351060281}
-  - {fileID: 4024098}
   pointSprite: {fileID: 1890679276814896, guid: de6cfb6319bd16c458b1e30323010ab7,
     type: 2}
+  tileGroupSet:
+  - TileGroupName: Platforms
+    TileObjects:
+    - {fileID: 1075271542805294, guid: 3d1ef62a3bab97c4aa0053c58b46dd4a, type: 2}
+    - {fileID: 1441918847938246, guid: 2cebde93ad9f10943bbc2ab60296d12f, type: 2}
+    - {fileID: 1302139220096352, guid: 34a0e45718e278f459e427fc343238bb, type: 2}
+    - {fileID: 1918975278055964, guid: 17aff4133ea7c0143a92bd79a5de613f, type: 2}
+    - {fileID: 1035988080649488, guid: 0fc4cb2a183fa1446b3b52ea4bc4796f, type: 2}
+  - TileGroupName: Enemies
+    TileObjects:
+    - {fileID: 1468084344028314, guid: e40fcdda200ac114e94e18825acd2f39, type: 2}
+    - {fileID: 1672378232737788, guid: 8edfdb0d494a92d44ba9cae2fe07fb0c, type: 2}
+    - {fileID: 1326874793250830, guid: 3e394b37b0b21364c97d7f3782640692, type: 2}
+    - {fileID: 1280415603812916, guid: 5bfe0bcfbf0ddde4492d179f6a412bb7, type: 2}
+  player: {fileID: 0}
   cursorMode: 0
 --- !u!1 &1721002322
 GameObject:
@@ -5327,7 +5342,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1767110282
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5341,10 +5356,10 @@ RectTransform:
   m_Father: {fileID: 1351060282}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 358.46243, y: -15.967444}
-  m_SizeDelta: {x: 31.913532, y: 25.934889}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1767110283
 MonoBehaviour:
@@ -5381,7 +5396,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 572907044}
+  m_TargetGraphic: {fileID: 1767110284}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -5538,8 +5553,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 359.47018, y: -15.967444}
-  m_SizeDelta: {x: 29.898014, y: 25.934889}
+  m_AnchoredPosition: {x: 355.48477, y: -15.793886}
+  m_SizeDelta: {x: 29.563747, y: 25.587772}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1959227564
 MonoBehaviour:
@@ -5576,7 +5591,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 617585455}
+  m_TargetGraphic: {fileID: 1959227565}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
