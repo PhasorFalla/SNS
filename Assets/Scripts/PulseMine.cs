@@ -6,18 +6,13 @@ public class PulseMine : MonoBehaviour
 {
     public GameObject target;
     public float collisionDst;
-    public float radius;
     public float power;
     bool player;
 
-    private void Start()
-    {
-    }
 
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(transform.position, radius);
         Gizmos.DrawWireSphere(transform.position, collisionDst);
     }
 
@@ -40,7 +35,8 @@ public class PulseMine : MonoBehaviour
 
         if(player == false) { return; }
         Rigidbody2D rb = target.GetComponent<Rigidbody2D>();
-        rb.AddForce(transform.up * power);
+        //rb.AddForce(transform.up * power);
+        rb.AddForce((target.transform.position - transform.position).normalized * power);
 
 
     }
