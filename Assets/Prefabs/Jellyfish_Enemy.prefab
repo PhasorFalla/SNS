@@ -54,7 +54,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1003556927559138}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.22, y: -3.73, z: -3.34}
+  m_LocalPosition: {x: 6.22, y: -4.24, z: -3.34}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4544807993995558}
@@ -189,7 +189,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1064476096346162}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 9963cb3d0725a89448e516a44cb88a9f, type: 2}
   m_CullingMode: 0
@@ -211,5 +211,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89fe9fe2d62a31740900c2e2856904e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timer: 0.5
+  path: []
+  speed: 3
+  reachDist: 1
+  targetIndex: 0
   deathSFX: {fileID: 0}
   deathVFX: {fileID: 198773473872910662, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}

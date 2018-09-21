@@ -43,8 +43,7 @@ Shader "Karina/UnlitVertexColor" {
             float4 frag(VertexOutput i) : COLOR {
 ////// Lighting:
 ////// Emissive:
-                float3 node_1856 = (i.vertexColor.rgb*_Color.rgb);
-                float3 emissive = saturate((1.0-(1.0-i.vertexColor.rgb)*(1.0-node_1856)));
+                float3 emissive = saturate((1.0-(1.0-i.vertexColor.rgb)*(1.0-(i.vertexColor.rgb*_Color.rgb))));
                 float3 finalColor = emissive;
                 return fixed4(finalColor,1);
             }
