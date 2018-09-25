@@ -113,6 +113,10 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &11684921 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1018677757}
 --- !u!1 &12186224
 GameObject:
   m_ObjectHideFlags: 0
@@ -213,6 +217,72 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 4
   m_TargetDisplay: 0
+--- !u!1001 &12985383
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 717.70996
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.112999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.40292448
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.91523325
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 235.22633
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 235.22589
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -228.39363
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 312.478
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &24298644
 GameObject:
   m_ObjectHideFlags: 0
@@ -275,6 +345,10 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &33002397 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1660744106}
 --- !u!4 &33217271 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -394,6 +468,140 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 64257376}
+--- !u!4 &65342784 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1986791160}
+--- !u!1001 &91755709
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 176.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 35.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 199.01978
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 199.01933
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 193.23866
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1 &102860672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 102860673}
+  m_Layer: 0
+  m_Name: Hills (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &102860673
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 102860672}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3764.205, y: -42.084915, z: -257.27924}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 288741673}
+  - {fileID: 1847389264}
+  - {fileID: 1138109766}
+  - {fileID: 714251310}
+  - {fileID: 2048962267}
+  - {fileID: 663838431}
+  - {fileID: 1294242100}
+  - {fileID: 966606829}
+  - {fileID: 111896815}
+  - {fileID: 1712425409}
+  - {fileID: 426615817}
+  - {fileID: 1472009866}
+  - {fileID: 1201991644}
+  - {fileID: 879328601}
+  - {fileID: 791426625}
+  - {fileID: 1825540319}
+  - {fileID: 736828085}
+  - {fileID: 1948121198}
+  - {fileID: 641508229}
+  - {fileID: 1686404340}
+  - {fileID: 1992637856}
+  - {fileID: 1267940355}
+  - {fileID: 1614043599}
+  - {fileID: 11684921}
+  - {fileID: 33002397}
+  - {fileID: 65342784}
+  - {fileID: 926608276}
+  - {fileID: 1171817362}
+  - {fileID: 916883154}
+  - {fileID: 1018235713}
+  - {fileID: 1733474378}
+  - {fileID: 503172619}
+  m_Father: {fileID: 1929567069}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &111896815 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 12985383}
+--- !u!4 &116492656 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1683210460}
 --- !u!1 &142999839
 GameObject:
   m_ObjectHideFlags: 0
@@ -432,8 +640,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_Father: {fileID: 2017150523}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &169153390
 GameObject:
@@ -607,6 +815,72 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 1796374434}
+--- !u!1001 &222217543
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 592.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.112999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 235.22632
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 235.22589
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 228.39366
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1001 &225918122
 Prefab:
   m_ObjectHideFlags: 0
@@ -813,6 +1087,72 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &277918295
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 829.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 21.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 248.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 248.6395
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 241.41756
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &279956701
 GameObject:
   m_ObjectHideFlags: 0
@@ -828,7 +1168,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &279956702
 Transform:
   m_ObjectHideFlags: 0
@@ -887,6 +1227,104 @@ SpriteRenderer:
   m_SpriteTileMode: 1
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!1001 &280786343
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 840818057}
+    m_Modifications:
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1411.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 135.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6972351
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7168426
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 189.59486
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 170.17818
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -241.37436
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14fb929c35b5837438dfdf964af478e1, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -271.589
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1001 &283167816
 Prefab:
   m_ObjectHideFlags: 0
@@ -1049,6 +1487,10 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 288234004}
+--- !u!4 &288741673 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1428446786}
 --- !u!1001 &295438789
 Prefab:
   m_ObjectHideFlags: 0
@@ -1185,6 +1627,68 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 310416256}
+--- !u!1001 &342136769
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -88.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 35.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 199.01959
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 199.01933
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 193.23846
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &358539480
 GameObject:
   m_ObjectHideFlags: 0
@@ -1259,6 +1763,174 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 358539480}
+--- !u!1001 &397512384
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 840818057}
+    m_Modifications:
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 980.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 19.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 119.600006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.72792083
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.68566126
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 218.56491
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 103.65227
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -194.06079
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14fb929c35b5837438dfdf964af478e1, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -266.575
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &413785277
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 483.25995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.112999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91103613
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.41232654
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 235.22632
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 235.22589
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 228.39366
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 228.702
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &426615817 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 277918295}
 --- !u!1001 &429950145
 Prefab:
   m_ObjectHideFlags: 0
@@ -1468,6 +2140,72 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &450032876
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1079.1001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.955997
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8912034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.4536039
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 250.86148
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 250.86107
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 243.57472
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 233.95
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &469898315
 GameObject:
   m_ObjectHideFlags: 0
@@ -1515,8 +2253,78 @@ Transform:
   - {fileID: 1363453749}
   - {fileID: 874655477}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &483552909
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1302.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 24.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 255.01875
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 255.0183
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 247.61134
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &503172619 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1780947166}
 --- !u!1 &503374391
 GameObject:
   m_ObjectHideFlags: 0
@@ -1687,14 +2495,81 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 522728755}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 25.8}
+  m_LocalPosition: {x: 0, y: 0, z: 67.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 279956702}
   - {fileID: 1563378456}
+  - {fileID: 1929567069}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &523833550
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 978.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 26.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46887946
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8832622
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 293.182
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 293.18152
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -284.6658
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 304.077
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &530281790
 GameObject:
   m_ObjectHideFlags: 0
@@ -2139,6 +3014,80 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 615345897}
+--- !u!4 &641508229 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1788137418}
+--- !u!1001 &659242405
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3107.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 327.0688
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 327.0681
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 317.56882
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &663838431 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1338048518}
 --- !u!4 &672908678 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -2147,10 +3096,84 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 295438789}
+--- !u!1001 &699440408
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1838.5002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 20.316
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8912034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.4536039
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 281.64218
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 281.64172
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 273.4616
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 233.95
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!4 &711258446 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 597819049}
+--- !u!4 &714251310 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 91755709}
+--- !u!4 &736828085 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1234650387}
 --- !u!4 &760147143 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee,
@@ -2250,6 +3273,14 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!4 &791426625 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 824667628}
+--- !u!4 &796413144 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 280786343}
 --- !u!4 &806085582 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -2259,6 +3290,72 @@ Transform:
   m_PrefabParentObject: {fileID: 4202465442063584, guid: 04135d9f9668007488d84c11f0350b4d,
     type: 2}
   m_PrefabInternal: {fileID: 1356455094}
+--- !u!1001 &824667628
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1438.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 24.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.40292448
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.91523325
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 255.01875
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 255.0183
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -247.61125
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 312.478
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!4 &833478040 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -2284,8 +3381,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 840818056}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -60.6, y: -9.2651, z: 29.3}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4841.4053, y: -51.350014, z: -227.97923}
   m_LocalScale: {x: 1.604502, y: 1.604502, z: 1.604502}
   m_Children:
   - {fileID: 833478040}
@@ -2294,8 +3391,14 @@ Transform:
   - {fileID: 672908678}
   - {fileID: 33217271}
   - {fileID: 1816129155}
-  m_Father: {fileID: 0}
-  m_RootOrder: 19
+  - {fileID: 1814994154}
+  - {fileID: 116492656}
+  - {fileID: 1803710013}
+  - {fileID: 1413546246}
+  - {fileID: 1563877497}
+  - {fileID: 796413144}
+  m_Father: {fileID: 1929567069}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &874655473
 GameObject:
@@ -2374,6 +3477,10 @@ Transform:
   m_Father: {fileID: 469898317}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 720.46}
+--- !u!4 &879328601 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 483552909}
 --- !u!1001 &883127718
 Prefab:
   m_ObjectHideFlags: 0
@@ -2440,6 +3547,10 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_IsPrefabParent: 0
+--- !u!4 &916883154 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1802497378}
 --- !u!1 &921946286
 GameObject:
   m_ObjectHideFlags: 0
@@ -2510,6 +3621,10 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 921946286}
+--- !u!4 &926608276 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 659242405}
 --- !u!1 &938366618
 GameObject:
   m_ObjectHideFlags: 0
@@ -2643,6 +3758,76 @@ Prefab:
     - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &966606829 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 222217543}
+--- !u!1001 &970783033
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3280.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 32.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.40292448
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.91523325
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 335.96002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 335.95953
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -326.20184
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 312.478
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -2883,6 +4068,142 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1014870381
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3437.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 48.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 460.34674
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 460.34583
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 446.97537
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1018235713 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1014870381}
+--- !u!1001 &1018677757
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2716.2998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 29.664999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46887946
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8832622
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 317.851
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 317.85043
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -308.6184
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 304.077
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &1027966798
 GameObject:
   m_ObjectHideFlags: 0
@@ -3309,6 +4630,76 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1001 &1122987483
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2366.5002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28.449001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 309.94257
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 309.94193
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 300.93988
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1138109766 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1398963355}
 --- !u!1 &1139997237
 GameObject:
   m_ObjectHideFlags: 0
@@ -3442,8 +4833,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1151608293}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4780.805, y: -42.084915, z: -257.27924}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1155519416}
@@ -3457,8 +4848,8 @@ Transform:
   - {fileID: 711258446}
   - {fileID: 2107554147}
   - {fileID: 1850085847}
-  m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_Father: {fileID: 1929567069}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1155519415
 Prefab:
@@ -3522,6 +4913,10 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 1155519415}
+--- !u!4 &1171817362 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 970783033}
 --- !u!4 &1177603253 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -3534,6 +4929,76 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 2067988568}
+--- !u!4 &1201991644 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1864245209}
+--- !u!1001 &1234650387
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1549.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 276.06888
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 276.06833
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 268.04984
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &1245983624
 GameObject:
   m_ObjectHideFlags: 0
@@ -3608,6 +5073,10 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1245983624}
+--- !u!4 &1267940355 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1419966648}
 --- !u!1 &1289729673
 GameObject:
   m_ObjectHideFlags: 0
@@ -3676,6 +5145,76 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1289729673}
+--- !u!4 &1294242100 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 413785277}
+--- !u!1001 &1338048518
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 289.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 200.75435
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 200.7539
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 194.92297
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1001 &1356455094
 Prefab:
   m_ObjectHideFlags: 0
@@ -3718,11 +5257,311 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 04135d9f9668007488d84c11f0350b4d, type: 2}
   m_IsPrefabParent: 0
+--- !u!1001 &1358583183
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 840818057}
+    m_Modifications:
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1289.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 137.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5738637
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8189509
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 189.59482
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 170.17816
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -241.3743
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14fb929c35b5837438dfdf964af478e1, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -289.96
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!4 &1363453749 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4015814724224496, guid: a5dc592df0a13ee42bb4c375d40e6b3c,
     type: 2}
   m_PrefabInternal: {fileID: 225918122}
+--- !u!1001 &1372987943
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2242.3003
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.40292448
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.91523325
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 286.30954
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 286.30902
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -277.9934
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 312.478
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &1395454401
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2089.4004
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41246104
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9109753
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 286.30957
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 286.30902
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 277.99353
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 311.281
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &1398963355
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 77.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 166.2885
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 166.2883
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -161.4582
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1413546246 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1611664078}
 --- !u!1 &1414433182
 GameObject:
   m_ObjectHideFlags: 0
@@ -3797,6 +5636,130 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1414433182}
+--- !u!1001 &1419966648
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2549.7002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 33.462
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46887946
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8832622
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 356.85132
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 356.85068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -346.4862
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 304.077
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &1428446786
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 109.98381
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 109.98375
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 106.78899
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &1458976363
 GameObject:
   m_ObjectHideFlags: 0
@@ -3987,6 +5950,10 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1466734317}
+--- !u!4 &1472009866 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 450032876}
 --- !u!1 &1518645874
 GameObject:
   m_ObjectHideFlags: 0
@@ -4301,6 +6268,10 @@ SpriteRenderer:
   m_SpriteTileMode: 1
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!4 &1563877497 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1358583183}
 --- !u!1001 &1576153082
 Prefab:
   m_ObjectHideFlags: 0
@@ -4459,6 +6430,174 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1589372158}
+--- !u!1001 &1611664078
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 840818057}
+    m_Modifications:
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1124.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 119.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.72792083
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.68566126
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 189.59471
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 170.17815
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -318.61267
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14fb929c35b5837438dfdf964af478e1, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -266.575
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1614043599 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1122987483}
+--- !u!1001 &1660744106
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2842.1997
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 20.316
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8912034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.4536039
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 281.64218
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 281.64172
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 273.4616
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 233.95
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &1671017586
 GameObject:
   m_ObjectHideFlags: 0
@@ -4595,6 +6734,108 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1671703370}
+--- !u!1001 &1683210460
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 840818057}
+    m_Modifications:
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 844.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 119.600006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.72792083
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.68566126
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 278.7318
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 103.65225
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -272.5647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14fb929c35b5837438dfdf964af478e1, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -266.575
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1686404340 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1395454401}
 --- !u!1 &1693865503
 GameObject:
   m_ObjectHideFlags: 0
@@ -4791,6 +7032,108 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1709178091}
+--- !u!1001 &1711781876
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 840818057}
+    m_Modifications:
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 653.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 119.600006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.72792083
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.68566126
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -278.73157
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 103.652245
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 419.7423
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14fb929c35b5837438dfdf964af478e1, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -266.575
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1712425409 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 523833550}
 --- !u!1 &1716422005
 GameObject:
   m_ObjectHideFlags: 0
@@ -4859,6 +7202,10 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1716422005}
+--- !u!4 &1733474378 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1797174013}
 --- !u!1 &1768657679
 GameObject:
   m_ObjectHideFlags: 0
@@ -4972,6 +7319,138 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Canvas: {fileID: 2065119226}
+--- !u!1001 &1780947166
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4125.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46887946
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8832622
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 642.0495
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 642.0484
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -623.4007
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 304.077
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &1788137418
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1957
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91103613
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.41232654
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 286.3095
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 286.30902
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 277.99347
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 228.702
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1001 &1796374434
 Prefab:
   m_ObjectHideFlags: 0
@@ -5038,10 +7517,154 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_IsPrefabParent: 0
+--- !u!1001 &1797174013
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3890.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 42.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.40292448
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.91523325
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 431.46945
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 431.46884
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -418.9371
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 312.478
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &1802497378
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3691.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 46.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46887946
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8832622
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 451.85443
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 451.85355
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -438.7298
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 304.077
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1803710013 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 397512384}
+--- !u!4 &1814994154 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1711781876}
 --- !u!4 &1816129155 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 2027396045}
+--- !u!4 &1825540319 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 2097219353}
 --- !u!1001 &1831963650
 Prefab:
   m_ObjectHideFlags: 0
@@ -5166,10 +7789,80 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1835576189}
+--- !u!4 &1847389264 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 342136769}
 --- !u!4 &1850085847 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 1894678917}
+--- !u!1001 &1864245209
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1184.6001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 24.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91103613
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.41232654
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 255.01872
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 255.0183
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 247.61131
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 228.702
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1001 &1879204542
 Prefab:
   m_ObjectHideFlags: 0
@@ -5183,7 +7876,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3097
+      value: 3089.6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5478,6 +8171,41 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1923637527}
+--- !u!1 &1929567068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1929567069}
+  m_Layer: 0
+  m_Name: Mountains
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1929567069
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1929567068}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4780.805, y: 42.084915, z: 189.57924}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1151608294}
+  - {fileID: 840818057}
+  - {fileID: 102860673}
+  m_Father: {fileID: 522728756}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1948121198 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 699440408}
 --- !u!1 &1958198772
 GameObject:
   m_ObjectHideFlags: 0
@@ -5829,6 +8557,76 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1976479346}
+--- !u!1001 &1986791160
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2960.6997
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.91103613
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.41232654
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 286.3095
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 286.30902
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 277.99347
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 228.702
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!4 &1992637856 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 1372987943}
 --- !u!1 &2017150521
 GameObject:
   m_ObjectHideFlags: 0
@@ -5872,7 +8670,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 142999841}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6083,6 +8882,10 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_IsPrefabParent: 0
+--- !u!4 &2048962267 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_PrefabInternal: {fileID: 2115494597}
 --- !u!1 &2065119225
 GameObject:
   m_ObjectHideFlags: 0
@@ -6183,10 +8986,142 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_IsPrefabParent: 0
+--- !u!1001 &2097219353
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1712.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 29.664999
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.46887946
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.8832622
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 317.85098
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 317.85043
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: -308.61835
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 304.077
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!4 &2107554147 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 883127718}
+--- !u!1001 &2115494597
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 102860673}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 385.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 127.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8912034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.4536039
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf457601b33994b49a64bccf9a6d0894, type: 2}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 192.1631
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 192.16275
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 186.58124
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_Name
+      value: Background Sand Dunes (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 233.95
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1001 &2121279811
 Prefab:
   m_ObjectHideFlags: 0
