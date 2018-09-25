@@ -44,7 +44,7 @@ public class Grapple : MonoBehaviour
 
             hit = Physics2D.Raycast(transform.position, targetPos - transform.position, distance, mask);
 
-            if(hit.collider!=null && hit.collider.gameObject.GetComponent<Rigidbody2D>() != null)
+            if(hit.collider!=null && hit.collider.gameObject.GetComponent<Rigidbody2D>() != null && hit.collider.gameObject.tag != "Enemies")
             {
                 joint.enabled = true;
                 joint.connectedAnchor = hit.point;
