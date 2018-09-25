@@ -1076,6 +1076,7 @@ GameObject:
   - component: {fileID: 1130523419}
   - component: {fileID: 1130523421}
   - component: {fileID: 1130523420}
+  - component: {fileID: 1130523422}
   m_Layer: 0
   m_Name: Wave current
   m_TagString: Untagged
@@ -1103,7 +1104,7 @@ Animator:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1130523418}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 4618ac1d484fee84480470e2630b8158, type: 2}
   m_CullingMode: 0
@@ -1159,6 +1160,19 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &1130523422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1130523418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 736f30240e8310144a39bf08cabc264b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: -0.05
+  offset: {x: 0, y: 0}
 --- !u!1001 &1162235122
 Prefab:
   m_ObjectHideFlags: 0
