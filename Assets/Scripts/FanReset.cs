@@ -1,9 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 
-public class FanReset : MonoBehaviour {
+public class FanReset : MonoBehaviour
+{
 
     public Transform spawnpoint;
     public static FanReset deathzone;
@@ -13,6 +15,10 @@ public class FanReset : MonoBehaviour {
 
     [HideInInspector]
     public bool dead;
+    public GameObject hurtPanel;
+    public GameObject deathPanel;
+    public float speed;
+
 
     private void Awake()
     {
@@ -48,9 +54,52 @@ public class FanReset : MonoBehaviour {
             entity.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         }
         dead = true;
+        deathPanel.SetActive(true);
+        hurtPanel.GetComponent<CanvasGroup>().alpha = 0;
+        StartCoroutine(FadeHurt());
         ScoreManager.scoreManager.DeathCount();
         entity.transform.position = spawnpoint.position;
     }
 
-    
+    IEnumerator FadeHurt()
+    {
+        var fade = hurtPanel.GetComponent<CanvasGroup>();
+        
+        while(fade.alpha < 1)
+        {
+            fade.alpha += Time.deltaTime * speed;
+
+            if (fade.alpha >= 1)
+            {
+                StartCoroutine(FadeOut());
+                yield break;
+
+            }
+            yield return null;
+        }
+        
+        
+    }
+
+    IEnumerator FadeOut()
+    {
+        var fade = hurtPanel.GetComponent<CanvasGroup>();
+
+        while (fade.alpha > 0)
+        {
+            fade.alpha -= Time.deltaTime * speed;
+
+            if (fade.alpha <= 0)
+            {
+                fade.alpha = 0;
+                deathPanel.SetActive(false);
+                yield break;
+
+            }
+            yield return null;
+        }
+
+
+    }
+
 }
