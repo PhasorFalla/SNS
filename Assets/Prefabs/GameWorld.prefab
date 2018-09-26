@@ -84846,7 +84846,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114123237770279274
 MonoBehaviour:
   m_ObjectHideFlags: 1
