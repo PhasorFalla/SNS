@@ -11,6 +11,9 @@ public class FanReset : MonoBehaviour {
     private GameObject entityToReset;
     public GameController GC;
 
+    [HideInInspector]
+    public bool dead;
+
     private void Awake()
     {
         if(deathzone == null)
@@ -44,8 +47,10 @@ public class FanReset : MonoBehaviour {
         {
             entity.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         }
-
+        dead = true;
         ScoreManager.scoreManager.DeathCount();
         entity.transform.position = spawnpoint.position;
     }
+
+    
 }
