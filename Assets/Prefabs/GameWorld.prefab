@@ -25281,7 +25281,7 @@ Transform:
   - {fileID: 4522447153921142}
   - {fileID: 4886204134262222}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4018421915117508
 Transform:
@@ -26187,7 +26187,7 @@ Transform:
   - {fileID: 4295767199642654}
   - {fileID: 4596584381907258}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4053552972941706
 Transform:
@@ -26657,7 +26657,7 @@ Transform:
   - {fileID: 4341344355874136}
   - {fileID: 4353395752924326}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4080307642844456
 Transform:
@@ -27206,7 +27206,7 @@ Transform:
   - {fileID: 4831701825772192}
   - {fileID: 4721881930183384}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 15
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4101965197939138
 Transform:
@@ -27373,7 +27373,7 @@ Transform:
   - {fileID: 4449944954068144}
   - {fileID: 4037161944782660}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 10
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4110349407103614
 Transform:
@@ -28241,7 +28241,7 @@ Transform:
   - {fileID: 4531631043216332}
   - {fileID: 4831919706215714}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4148776636490246
 Transform:
@@ -28367,7 +28367,7 @@ Transform:
   - {fileID: 4443418886821908}
   - {fileID: 4183095259506160}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 22
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4155777280356868
 Transform:
@@ -28960,7 +28960,7 @@ Transform:
   - {fileID: 4373440693747514}
   - {fileID: 4528808148017310}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 23
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4182491158984416
 Transform:
@@ -30193,7 +30193,7 @@ Transform:
   - {fileID: 4277948932887948}
   - {fileID: 4815515970723202}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4241383106003700
 Transform:
@@ -30477,7 +30477,7 @@ Transform:
   - {fileID: 4053552972941706}
   - {fileID: 4876373202490708}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4258666746323852
 Transform:
@@ -30591,7 +30591,7 @@ Transform:
   - {fileID: 4892776675027840}
   - {fileID: 4255382752500330}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4263457092185348
 Transform:
@@ -30789,7 +30789,7 @@ Transform:
   - {fileID: 4626650817636424}
   - {fileID: 4554481377574676}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 21
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4268829908979292
 Transform:
@@ -30878,7 +30878,7 @@ Transform:
   - {fileID: 4643431157270174}
   - {fileID: 4292291219786014}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 20
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4271387732235258
 Transform:
@@ -31506,7 +31506,7 @@ Transform:
   - {fileID: 4576078500407200}
   - {fileID: 4922053022450654}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4296730404805332
 Transform:
@@ -31857,7 +31857,7 @@ Transform:
   - {fileID: 4647454386284096}
   - {fileID: 4420082754785782}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4312993313752742
 Transform:
@@ -32348,7 +32348,7 @@ Transform:
   - {fileID: 4630005500392210}
   - {fileID: 4479154695674028}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4344210643334672
 Transform:
@@ -32746,7 +32746,7 @@ Transform:
   - {fileID: 4198693738181910}
   - {fileID: 4591972854599012}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4371720686466556
 Transform:
@@ -32970,7 +32970,7 @@ Transform:
   - {fileID: 4538939007153922}
   - {fileID: 4189516372761618}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4383069387184772
 Transform:
@@ -33130,7 +33130,7 @@ Transform:
   - {fileID: 4187523745098200}
   - {fileID: 4858088495784166}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 11
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4390138510409350
 Transform:
@@ -33782,7 +33782,7 @@ Transform:
   - {fileID: 4588101983680022}
   - {fileID: 4434087935622716}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4418578210956222
 Transform:
@@ -34303,9 +34303,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4998511720043926}
   - {fileID: 4496602966201766}
-  - {fileID: 4622543338905546}
   - {fileID: 4342655773605706}
   - {fileID: 4296032397377172}
   - {fileID: 4418432076040826}
@@ -34327,6 +34325,8 @@ Transform:
   - {fileID: 4267538976898218}
   - {fileID: 4828429400894942}
   - {fileID: 4182261094959960}
+  - {fileID: 4998511720043926}
+  - {fileID: 4622543338905546}
   - {fileID: 4094082478356952}
   - {fileID: 4480479514545358}
   - {fileID: 4838092962738494}
@@ -34662,7 +34662,7 @@ Transform:
   - {fileID: 4901184138221814}
   - {fileID: 4891904249911526}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4449418503471568
 Transform:
@@ -35246,7 +35246,7 @@ Transform:
   - {fileID: 4393171729147286}
   - {fileID: 4282060117130160}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 13
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4479918975497606
 Transform:
@@ -35614,7 +35614,7 @@ Transform:
   - {fileID: 4196624858963422}
   - {fileID: 4480740273929602}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 12
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4492536581619856
 Transform:
@@ -35698,7 +35698,7 @@ Transform:
   - {fileID: 4439089840152286}
   - {fileID: 4731440879874972}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4497213495801472
 Transform:
@@ -36373,7 +36373,7 @@ Transform:
   - {fileID: 4364570532620378}
   - {fileID: 4563123002597310}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4528430341594014
 Transform:
@@ -36513,7 +36513,7 @@ Transform:
   - {fileID: 4940604187272958}
   - {fileID: 4366481872912676}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4534217776675438
 Transform:
@@ -36589,7 +36589,7 @@ Transform:
   - {fileID: 4276111361215436}
   - {fileID: 4658324666911468}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4535733074234936
 Transform:
@@ -36661,7 +36661,7 @@ Transform:
   - {fileID: 4744676231612866}
   - {fileID: 4014301752813800}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4538939007153922
 Transform:
@@ -36976,7 +36976,7 @@ Transform:
   - {fileID: 4884894356844714}
   - {fileID: 4078705612763426}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4554554693633548
 Transform:
@@ -37129,7 +37129,7 @@ Transform:
   - {fileID: 4633360024443998}
   - {fileID: 4559296499166864}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 18
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4559992566323000
 Transform:
@@ -37203,7 +37203,7 @@ Transform:
   - {fileID: 4296730404805332}
   - {fileID: 4670046848555738}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 14
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4562005861735006
 Transform:
@@ -38417,7 +38417,7 @@ Transform:
   - {fileID: 4172407011176050}
   - {fileID: 4144500022460678}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 2
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4622558012397790
 Transform:
@@ -39065,7 +39065,7 @@ Transform:
   - {fileID: 4833614390675362}
   - {fileID: 4115851070256966}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 19
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4654181795989502
 Transform:
@@ -39749,7 +39749,7 @@ Transform:
   - {fileID: 4177863119909462}
   - {fileID: 4270480803363422}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 17
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4683331914048512
 Transform:
@@ -39880,7 +39880,7 @@ Transform:
   - {fileID: 4650674546206236}
   - {fileID: 4249396079463462}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4687202349651444
 Transform:
@@ -40003,7 +40003,7 @@ Transform:
   - {fileID: 4231399480960954}
   - {fileID: 4480204123709752}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4695703683643598
 Transform:
@@ -41232,7 +41232,7 @@ Transform:
   - {fileID: 4067530837819906}
   - {fileID: 4220526055257814}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 16
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4745705771364718
 Transform:
@@ -42064,7 +42064,7 @@ Transform:
   - {fileID: 4732403616401414}
   - {fileID: 4026696834610148}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4786186773729684
 Transform:
@@ -42218,7 +42218,7 @@ Transform:
   - {fileID: 4948931278745026}
   - {fileID: 4130029261439998}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 0
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4791963890040356
 Transform:
@@ -42678,7 +42678,7 @@ Transform:
   - {fileID: 4435403365966322}
   - {fileID: 4167133443091130}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4820635334794368
 Transform:
@@ -42809,7 +42809,7 @@ Transform:
   - {fileID: 4626132446862920}
   - {fileID: 4088840667654874}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 22
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4828444025425182
 Transform:
@@ -43255,7 +43255,7 @@ Transform:
   - {fileID: 4723678399291992}
   - {fileID: 4852406469846894}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4849233783159096
 Transform:
@@ -43996,7 +43996,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4790682346327918}
   - {fileID: 4241025453687010}
   - {fileID: 4532542371119604}
   - {fileID: 4526892089075048}
@@ -44019,6 +44018,7 @@ Transform:
   - {fileID: 4257861437971184}
   - {fileID: 4908628196669768}
   - {fileID: 4155480816969880}
+  - {fileID: 4790682346327918}
   - {fileID: 4345143494597752}
   - {fileID: 4339154369629606}
   - {fileID: 4441082348250966}
@@ -44321,7 +44321,7 @@ Transform:
   - {fileID: 4768338222120284}
   - {fileID: 4190750215782718}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 21
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4908645962442352
 Transform:
@@ -44649,7 +44649,7 @@ Transform:
   - {fileID: 4547804731606754}
   - {fileID: 4308755258456536}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4932065497596034
 Transform:
@@ -44758,7 +44758,7 @@ Transform:
   - {fileID: 4047116081402878}
   - {fileID: 4492635854285898}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4938362089816986
 Transform:
@@ -45399,7 +45399,7 @@ Transform:
   - {fileID: 4539553824453500}
   - {fileID: 4484227328841804}
   m_Father: {fileID: 4893518445756718}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4963370276883800
 Transform:
@@ -46159,7 +46159,7 @@ Transform:
   - {fileID: 4560392758616072}
   - {fileID: 4537098268884938}
   m_Father: {fileID: 4436834037565850}
-  m_RootOrder: 0
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &23000102694113844
 MeshRenderer:
@@ -83923,7 +83923,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114007204080021158
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -83935,8 +83935,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114007799859905254
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -83948,8 +83948,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114009219799115054
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -83961,8 +83961,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114009625265109240
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84012,8 +84012,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114021413381963124
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84083,7 +84083,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114024958541974984
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84095,8 +84095,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114027140734435664
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84109,7 +84109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114027166810639156
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84140,8 +84140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114029624204675678
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84154,7 +84154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114033596589186166
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84167,7 +84167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114033685459368458
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84179,8 +84179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114035770613675220
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84192,8 +84192,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114035989879228252
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84205,8 +84205,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114036437985616248
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84237,8 +84237,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114039545760502612
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84269,8 +84269,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114042341975970814
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84282,8 +84282,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114044155203109596
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84295,8 +84295,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114045296147037572
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84309,7 +84309,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114046887045208522
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84379,7 +84379,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114055741153072848
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84391,8 +84391,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114062741825160668
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84404,8 +84404,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114064023871980630
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84475,7 +84475,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114070388125487898
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84488,7 +84488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114071040750140532
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84500,8 +84500,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114072257426963498
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84551,8 +84551,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114077885248878338
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84564,8 +84564,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114077903221938812
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84577,8 +84577,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114078669496504790
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84590,8 +84590,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114083363891699490
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84642,7 +84642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114087253196499194
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84655,7 +84655,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114088353458417388
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84725,7 +84725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114103943302963218
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84757,7 +84757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114110286801311388
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84845,7 +84845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
   deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114123237770279274
 MonoBehaviour:
@@ -84896,8 +84896,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114127438989918470
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84910,7 +84910,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114129114672360428
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84922,8 +84922,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114129197349415300
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84954,8 +84954,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114131883032194914
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84987,7 +84987,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114140286352770378
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -84999,8 +84999,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114146872057757312
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85088,8 +85088,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114159062781968626
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85102,7 +85102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114164484630497358
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85152,8 +85152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114168441367969684
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85184,8 +85184,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114168994575589336
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85198,7 +85198,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114176915065072536
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85211,7 +85211,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114179077734692230
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85243,7 +85243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114180750705177550
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85275,7 +85275,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114187792508628234
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85306,8 +85306,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114193461109959404
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85358,7 +85358,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114199869712798806
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85390,7 +85390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114204535325381908
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85402,8 +85402,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114205075460675706
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85434,8 +85434,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114207417876069130
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85504,8 +85504,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114227062929041986
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85517,8 +85517,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114227246421373148
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85569,7 +85569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114231282052883330
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85600,8 +85600,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114236009586498626
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85614,7 +85614,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114236745460509304
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85646,7 +85646,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114255376567364884
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85658,8 +85658,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114259197268183252
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85690,8 +85690,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114262240216563710
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85799,7 +85799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114272672463183106
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85811,8 +85811,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114272864191671392
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85862,8 +85862,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114275917884125158
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85875,8 +85875,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114278315457978018
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85908,7 +85908,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114285093170166914
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85920,8 +85920,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114286691494010044
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85952,8 +85952,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114291103950901864
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86041,8 +86041,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114302395685113728
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86073,8 +86073,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114307542720414844
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86105,8 +86105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114316140259080848
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86119,7 +86119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114318250208734370
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86151,7 +86151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114321520692334612
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86201,8 +86201,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114335935019856434
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86233,8 +86233,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114353075948111140
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86285,7 +86285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114356830239644602
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86336,7 +86336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114361730226072340
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86367,8 +86367,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114369665268327550
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86380,8 +86380,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114370190212756796
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86393,8 +86393,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114372219797203954
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86425,8 +86425,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114374695265288834
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86457,8 +86457,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114378192211344420
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86471,7 +86471,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114380268881334614
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86502,8 +86502,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114390365800613574
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86591,8 +86591,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114405200278484890
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86604,8 +86604,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114406090925510988
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86655,8 +86655,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114422472179528202
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86668,8 +86668,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114422787301848008
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86700,8 +86700,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114424343545007770
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86713,8 +86713,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114427163579829906
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86726,8 +86726,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114429542605381426
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86758,8 +86758,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114435323015575040
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86771,8 +86771,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114439504939508392
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86803,8 +86803,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114446812643916850
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86835,8 +86835,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114453824125939980
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86868,7 +86868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114456323877708100
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86899,8 +86899,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114462878750957774
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86931,8 +86931,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114463556419853284
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86982,8 +86982,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114482323061349658
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86996,7 +86996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114486195298216472
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87008,8 +87008,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114486255591797718
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87135,8 +87135,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114506053129139942
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87205,8 +87205,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114511937565216976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87257,7 +87257,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114520686670206750
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87269,8 +87269,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114530498865509788
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87301,8 +87301,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114535920964671956
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87314,8 +87314,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114535989804889278
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87365,8 +87365,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114539500170442032
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87378,8 +87378,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114545059884991228
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87430,7 +87430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114549131302371292
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87442,8 +87442,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114552089169199012
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87512,8 +87512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114561963581041110
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87544,8 +87544,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114569968295880972
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87557,8 +87557,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114571430446480148
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87571,7 +87571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114571981537340090
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87641,7 +87641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114581752130844780
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87711,7 +87711,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114586112037960448
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87723,8 +87723,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114590881385960744
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87756,7 +87756,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114591384914481434
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87768,8 +87768,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114595253923052158
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87857,8 +87857,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114613065801023908
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87870,8 +87870,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114614602442564068
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87883,8 +87883,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114615786882211212
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87896,8 +87896,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114621303410340526
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87909,8 +87909,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114625432987124634
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87922,8 +87922,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114625601601745158
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87935,8 +87935,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114626313541775516
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87986,8 +87986,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114632046632900842
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -87999,8 +87999,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114640220010794896
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88012,8 +88012,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114640286639091906
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88063,8 +88063,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114644578731880930
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88076,8 +88076,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114644666130262498
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88127,8 +88127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114651742972150584
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88159,8 +88159,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114652206358711872
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88210,8 +88210,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114655907739670350
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88223,8 +88223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114657993649942026
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88256,7 +88256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114665537630560932
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88306,8 +88306,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114671614548487948
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88319,8 +88319,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114671920496987648
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88370,8 +88370,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114677972463855110
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88384,7 +88384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114681053896715002
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88453,8 +88453,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114687303701235074
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88466,8 +88466,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114690041162513356
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88518,7 +88518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114696779544833794
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88568,8 +88568,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114706304131613030
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88620,7 +88620,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114714095643131116
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88632,8 +88632,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114716055154634926
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88646,7 +88646,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114719578086748724
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88658,8 +88658,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114719870412490252
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88729,7 +88729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114724646167208572
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88760,8 +88760,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114738448658121190
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88773,8 +88773,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114740957616977698
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88805,8 +88805,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114749085150715628
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88838,7 +88838,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114750370417382408
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88850,8 +88850,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114756962835021928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88864,7 +88864,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114758181263771452
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88877,7 +88877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114758192752123060
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88946,8 +88946,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114768102035302698
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89016,8 +89016,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114771029266476854
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89105,8 +89105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114782804359418514
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89156,8 +89156,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114786913891166146
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89170,7 +89170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114792438320134298
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89201,8 +89201,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114801047282454668
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89214,8 +89214,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114808770549591804
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89246,8 +89246,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114810188212575884
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89298,7 +89298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114818628095743932
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89330,7 +89330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114820573263996266
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89362,7 +89362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114824675258685454
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89374,8 +89374,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114826277331356292
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89406,8 +89406,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114835942142481638
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89420,7 +89420,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114837919791604968
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89433,7 +89433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114840087844302648
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89445,8 +89445,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114844747407099962
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89459,7 +89459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114858538546672790
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89490,8 +89490,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114866330545257832
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89503,8 +89503,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114868216691636752
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89516,8 +89516,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114868407717898644
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89529,8 +89529,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114872247604162872
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89542,8 +89542,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114874176169458058
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89574,8 +89574,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114877555865471548
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89625,8 +89625,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114880703066883738
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89639,7 +89639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114881166047866144
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89727,8 +89727,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114897367057508538
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89759,8 +89759,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114898450069521134
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89772,8 +89772,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114898806855640190
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89786,7 +89786,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114901791623447162
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89798,8 +89798,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114902242414382586
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89811,8 +89811,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114905314577319216
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89863,7 +89863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114910635061075282
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89875,8 +89875,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114910754315655868
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89927,7 +89927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114918140507907596
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89958,8 +89958,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114919995934211724
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89990,8 +89990,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114926291069183584
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90041,8 +90041,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114932581755936864
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90093,7 +90093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114935407487359204
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90181,8 +90181,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114945307344617828
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90251,8 +90251,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114955053390322906
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90264,8 +90264,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114956928214130304
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90277,8 +90277,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114957453753830492
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90290,8 +90290,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114959172928678146
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90360,8 +90360,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114974076212254382
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90392,8 +90392,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114977167342899154
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90405,8 +90405,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114977181210629176
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90419,7 +90419,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114978843016462248
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90489,7 +90489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114986312293397848
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90501,8 +90501,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114990066505036794
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90514,8 +90514,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114994807573640148
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90547,7 +90547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114998848891541666
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90559,8 +90559,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59fa42c7ca774b141bc3c67fe829a354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathSFX: {fileID: 0}
-  deathVFX: {fileID: 1419950544844340, guid: a2131de8615b60649a26d56821d7a0c3, type: 2}
+  deathSFX: {fileID: 8300000, guid: 86b49e7048948944490930e0274c99cc, type: 3}
+  deathVFX: {fileID: 1311200271775272, guid: 3cae041fd8a5e9a4b89a361df47f6c34, type: 2}
 --- !u!114 &114999468825344958
 MonoBehaviour:
   m_ObjectHideFlags: 1
