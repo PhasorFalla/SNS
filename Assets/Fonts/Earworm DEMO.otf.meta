@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 24d092d9ca717654bb649a00f894ed26
+guid: c602b6f68678df241afde98be1359f80
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Rue Mademoiselle
+  fontName: Earworm DEMO
   fontNames:
-  - Rue Mademoiselle
+  - Earworm DEMO
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

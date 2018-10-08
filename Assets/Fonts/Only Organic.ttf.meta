@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c71679969751b764e9b9a1ec9efc1faf
+guid: 0f19d061ea4cbd443a6c0287b2d215d4
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Squidgy Slimes
+  fontName: Only Organic
   fontNames:
-  - Squidgy Slimes
+  - Only Organic
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
