@@ -5,6 +5,7 @@ using UnityEngine;
 public class Grapple : MonoBehaviour
 {
     public GameObject bubble;
+    public LineRenderer aimSight;
     public LineRenderer line;
     SpringJoint2D joint;
     Vector3 targetPos;
@@ -36,7 +37,9 @@ public class Grapple : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
+        aimSight.SetPosition(0, transform.position);
+        aimSight.SetPosition(1, Input.mousePosition);
+
         if (Input.GetMouseButtonDown(0))
         {
             targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
