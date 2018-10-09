@@ -15,12 +15,13 @@ public class Grapple : MonoBehaviour
     public bool tethered;
     public AudioClip tetherSFX;
     public AudioClip bubblePopSFX;
-    
+    public bool aimAssist;
     Movement playerMovement;
 
     // Use this for initialization
     void Start()
     {
+        aimSight.enabled = aimAssist;
         playerMovement = GetComponent<Movement>();
         joint = GetComponent<SpringJoint2D>();
         joint.enabled = false;
@@ -34,11 +35,19 @@ public class Grapple : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, distance);
     }
 
+    public void LineAim()
+    {
+        if (!aimAssist) { return; }
+        var pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        pos.z = 0;
+        aimSight.SetPosition(0, transform.position);
+        aimSight.SetPosition(1, pos);
+    }
+
     // Update is called once per frame
     void Update()
     {
-        aimSight.SetPosition(0, transform.position);
-        aimSight.SetPosition(1, Input.mousePosition);
+        LineAim();
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -57,6 +66,8 @@ public class Grapple : MonoBehaviour
                 line.SetPosition(0, transform.position);
                 line.SetPosition(1, hit.point);
 
+                if (aimAssist) { aimSight.enabled = false; }
+                
 
                 tethered = true;
 
@@ -87,6 +98,7 @@ public class Grapple : MonoBehaviour
     {
         joint.enabled = false;
         line.enabled = false;
+        if (aimAssist) { aimSight.enabled = true; }
         tethered = false;
         bubble.SetActive(true);
     }
