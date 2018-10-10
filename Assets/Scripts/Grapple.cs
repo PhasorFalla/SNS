@@ -5,6 +5,7 @@ using UnityEngine;
 public class Grapple : MonoBehaviour
 {
     public GameObject bubble;
+    public GameObject straps;
     public LineRenderer aimSight;
     public LineRenderer line;
     SpringJoint2D joint;
@@ -26,8 +27,10 @@ public class Grapple : MonoBehaviour
         joint = GetComponent<SpringJoint2D>();
         joint.enabled = false;
         line.enabled = false;
+        straps.SetActive(true);
 
     }
+
 
     private void OnDrawGizmos()
     {
@@ -48,6 +51,7 @@ public class Grapple : MonoBehaviour
     void Update()
     {
         LineAim();
+        straps.transform.position = transform.position;
 
         if (Input.GetMouseButtonDown(0))
         {

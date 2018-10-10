@@ -12,6 +12,7 @@ public class Movement : MonoBehaviour
     public float MoveSpeed = 5f;
     public bool IsGrounded = false;
     public float rotationMultiplyer = 1;
+    public GameObject straps;
     private Transform myTransform;
     public int timesJumped;
     [HideInInspector]
@@ -65,6 +66,9 @@ public class Movement : MonoBehaviour
         {
             gameObject.layer = LayerMask.NameToLayer("Player");
         }
+
+        //print(rb.velocity);
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)
