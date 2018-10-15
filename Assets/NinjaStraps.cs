@@ -23,5 +23,6 @@ public class NinjaStraps : MonoBehaviour
         //transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.AngleAxis(angle, Vector3.forward), Time.deltaTime * smooth);
 
+        print(angle);
     }
 }

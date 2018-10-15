@@ -10,6 +10,6 @@ public class AimAtMouse : MonoBehaviour {
     {
         var mouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         var angle = Mathf.Atan2((mouse.y - transform.position.y), (mouse.x - transform.position.x)) / (Mathf.PI / 180);
-        transform.eulerAngles = new Vector3(0, 0, angle);
+        transform.eulerAngles = new Vector3(0, 0, angle - 90f);
     }
 }
