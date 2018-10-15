@@ -6,6 +6,7 @@ public class Grapple : MonoBehaviour
 {
     public GameObject bubble;
     public GameObject straps;
+    public ParticleSystem gutParticle;
     public LineRenderer aimSight;
     public LineRenderer line;
     SpringJoint2D joint;
@@ -79,7 +80,7 @@ public class Grapple : MonoBehaviour
 
                 if (tetherSFX != null) { AudioManager.audioManager.PlaySound(tetherSFX); }
                 if(bubblePopSFX != null) { AudioManager.audioManager.PlaySound(bubblePopSFX); }
-
+                if(gutParticle != null) { gutParticle.Play(); }
                 playerMovement.timesJumped = 0;
             }
         }

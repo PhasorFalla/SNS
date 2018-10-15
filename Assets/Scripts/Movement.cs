@@ -12,7 +12,6 @@ public class Movement : MonoBehaviour
     public float MoveSpeed = 5f;
     public bool IsGrounded = false;
     public float rotationMultiplyer = 1;
-    public GameObject straps;
     private Transform myTransform;
     public int timesJumped;
     [HideInInspector]
@@ -54,7 +53,7 @@ public class Movement : MonoBehaviour
         
         if (!IsGrounded)
         {
-            rotateSpeed = (rb.velocity.x);
+            rotateSpeed = (rb.velocity.x );
             rb.angularVelocity = rotateSpeed * Time.deltaTime * rotationMultiplyer;
         }
 
@@ -67,7 +66,6 @@ public class Movement : MonoBehaviour
             gameObject.layer = LayerMask.NameToLayer("Player");
         }
 
-        //print(rb.velocity);
 
     }
 
@@ -83,19 +81,6 @@ public class Movement : MonoBehaviour
             rb.AddForce(new Vector2(0, Bounce), ForceMode2D.Impulse);
         }
 
-        //if (collision.gameObject.tag == "Enemies") 
-        //{
-        //    if (!grapple.tethered)
-        //    {
-        //        Destroy(collision.gameObject);
-        //        Instantiate(DeathVFX, collision.gameObject.transform.position, Quaternion.identity);
-        //    }
-        //    else
-        //    {
-        //        grapple.Detatch();
-        //        FanReset.deathzone.ResetEntity(gameObject);
-        //    }
-        //}
 
         if (collision.gameObject.tag == "Bomb")
         {
