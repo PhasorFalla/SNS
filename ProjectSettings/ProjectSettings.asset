@@ -14,7 +14,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: PhasorFalla
   productName: Super Ninja Star
-  defaultCursor: {fileID: 0}
+  defaultCursor: {fileID: 2800000, guid: 151d99f2b6f873242b86ccc3cb97c455, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
