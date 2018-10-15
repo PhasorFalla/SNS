@@ -59,6 +59,7 @@ public class FanReset : MonoBehaviour
         StartCoroutine(FadeHurt());
         ScoreManager.scoreManager.DeathCount();
         entity.transform.position = spawnpoint.position;
+        entity.transform.rotation = Quaternion.Euler(0, 0, 0);
     }
 
     IEnumerator FadeHurt()

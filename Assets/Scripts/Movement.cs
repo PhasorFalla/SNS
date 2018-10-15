@@ -17,10 +17,14 @@ public class Movement : MonoBehaviour
     [HideInInspector]
     public GameObject DeathVFX;
 
+    private NinjaStraps straps;
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         grapple = GetComponent<Grapple>();
+        straps = grapple.straps.GetComponent<NinjaStraps>();
     }
 
 
@@ -44,6 +48,15 @@ public class Movement : MonoBehaviour
         {
             var xy = new Vector2(MoveSpeed * -1, rb.velocity.y);
             rb.velocity = xy;
+        }
+
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
+        {
+            straps.moving = true;
+        }
+        else
+        {
+            straps.moving = false;
         }
 
         if (Input.GetMouseButtonDown(1) || Input.GetKeyDown(KeyCode.Space))
