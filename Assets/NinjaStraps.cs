@@ -22,6 +22,7 @@ public class NinjaStraps : MonoBehaviour
 
     void Update()
     {
+
         if(rb == null || rb.velocity.x == 0 && rb.velocity.y == 0) { return; }
         Vector2 dir = rb.velocity;
         angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;

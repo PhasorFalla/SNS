@@ -15,10 +15,10 @@ public class EndTrigger : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            Canvas.gameObject.SetActive(true);
-            Time.timeScale = 0;
-        }
+        //if (collision.gameObject.CompareTag("Player"))
+        //{
+        //    Canvas.gameObject.SetActive(true);
+        //    Time.timeScale = 0;
+        //}
     }
 }

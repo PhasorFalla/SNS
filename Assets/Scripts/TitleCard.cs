@@ -10,7 +10,7 @@ public class TitleCard : MonoBehaviour {
     {
         if (Input.GetMouseButtonDown(0))
         {
-            SceneManager.LoadScene("StartMenu");
+            SceneManager.LoadScene("Start");
         }		
 	}
 }
