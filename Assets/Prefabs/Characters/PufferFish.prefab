@@ -130,3 +130,4 @@ MonoBehaviour:
   reachDist: 1
   targetIndex: 0
   arrived: 0
+  flip: 0

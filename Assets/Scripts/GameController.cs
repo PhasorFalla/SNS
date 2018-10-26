@@ -52,6 +52,7 @@ public class GameController : MonoBehaviour {
 
     public void ResetScene()
     {
+        if (GameWorldSource == null) { return; }
         Destroy(currentGameWorld);
         var clone = Instantiate(GameWorldSource, Vector3.zero, Quaternion.identity);
         currentGameWorld = clone;

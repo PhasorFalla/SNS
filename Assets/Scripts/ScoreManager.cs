@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ScoreManager : MonoBehaviour
 {
+    public int allCoins;
     public int coinCount;
     public Text coinCountText;
     public Text coinCountResult;
@@ -23,7 +24,7 @@ public class ScoreManager : MonoBehaviour
         if(scoreManager != this) { Destroy(this); }
 
         deathCountText.text = "0";
-        coinCountText.text = "0 /50";
+        coinCountText.text = "0 /" + allCoins;
         coinCountResult.text = coinCount.ToString();
         deathCountResult.text = deathCount.ToString();
     }
@@ -31,7 +32,7 @@ public class ScoreManager : MonoBehaviour
     public void CollectCoin()
     {
         coinCount++;
-        coinCountText.text = coinCount.ToString() + " /50";
+        coinCountText.text = coinCount.ToString() + " /" + + allCoins;
         coinCountResult.text = coinCount.ToString();
 
     }

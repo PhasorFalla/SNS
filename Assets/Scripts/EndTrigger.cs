@@ -5,20 +5,45 @@ using UnityEngine.UI;
 
 public class EndTrigger : MonoBehaviour
 {
-    public Transform Canvas;
-    private bool EndResults;
+    public ParticleSystem[] fireworks;
+    public GameObject resultCanvas;
+    public bool endTrigger;
+    private bool endResults;
 
     private void Start()
     {
-        EndResults = false;
+        endResults = false;
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    
+
+    public void TriggerFireworks()
     {
-        //if (collision.gameObject.CompareTag("Player"))
-        //{
-        //    Canvas.gameObject.SetActive(true);
-        //    Time.timeScale = 0;
-        //}
+        if(fireworks.Length < 1 || fireworks[0] == null) { return; }
+        foreach(ParticleSystem firework in fireworks)
+        {
+            firework.Play();
+        }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (endResults) { return; }
+
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            if (!endTrigger)
+            {
+                TriggerFireworks();
+
+            }
+            else
+            {
+                resultCanvas.SetActive(true);
+                endResults = true;
+                Time.timeScale = 0f;
+            }
+        }
+    }
+
 }

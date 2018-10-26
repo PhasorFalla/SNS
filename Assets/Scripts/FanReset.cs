@@ -17,7 +17,7 @@ public class FanReset : MonoBehaviour
     public bool dead;
     public GameObject hurtPanel;
     public GameObject deathPanel;
-    public float speed;
+    public float speed = 7f;
 
 
     private void Awake()

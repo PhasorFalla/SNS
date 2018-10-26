@@ -11,7 +11,7 @@ public class Jellyfish : MonoBehaviour
     public float reachDist = 1.0f;
     public int targetIndex = 0;
     bool arrived;
-
+    public ParticleSystem jellyBubble;
     private Transform target;
     private int ArrayDirection = 1;
 
@@ -28,6 +28,7 @@ public class Jellyfish : MonoBehaviour
         StartCoroutine(MoveTimer());
 
     }
+
 
     private void Update()
     {
