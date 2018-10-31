@@ -38,7 +38,6 @@ public class PulseMine : MonoBehaviour
         //rb.AddForce(transform.up * power);
         rb.AddForce((target.transform.position - transform.position).normalized * power);
 
-
     }
 
 
@@ -61,13 +60,6 @@ public class PulseMine : MonoBehaviour
 
 
 
-    private void OnCollisionEnter(Collision other)
-    {
-        if (other.gameObject.CompareTag("Player"))
-        {
-            print("hit");
-        }
-    }
-
+ 
 
 }

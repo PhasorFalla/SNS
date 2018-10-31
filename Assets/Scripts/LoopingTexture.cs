@@ -8,22 +8,22 @@ public class LoopingTexture : MonoBehaviour
 
     public float speed;
     public Vector2 offset;
-    public bool sprite;
     private Material mat;
     private const string tex = "_MainTex";
 
     void Start()
     {
-        if (sprite)
+        if (gameObject.GetComponent<SpriteRenderer>() != null)
         {
             mat = GetComponent<SpriteRenderer>().material;
 
         }
-        else
+        else if (gameObject.GetComponent<Image>() != null)
         {
             mat = GetComponent<Image>().material;
 
         }
+
 
     }
 
