@@ -223,8 +223,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 644.8402, y: -209.64783}
-  m_SizeDelta: {x: 241.93608, y: 419.29565}
+  m_AnchoredPosition: {x: 753.498, y: -245.40865}
+  m_SizeDelta: {x: 285.3992, y: 490.8173}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &52467119
 MonoBehaviour:
@@ -680,8 +680,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 125.96804, y: -209.64783}
-  m_SizeDelta: {x: 251.93608, y: 419.29565}
+  m_AnchoredPosition: {x: 147.6996, y: -245.40865}
+  m_SizeDelta: {x: 295.3992, y: 490.8173}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &360887169
 MonoBehaviour:
@@ -1550,7 +1550,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1128334653}
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -10.52, y: -1.13, z: -0.3515625}
+  m_LocalPosition: {x: -12.17, y: -1.13, z: -0.3515625}
   m_LocalScale: {x: 1.2290267, y: 0.10874869, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1680,7 +1680,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: -0.05
   offset: {x: 0, y: 0}
-  sprite: 1
 --- !u!1001 &1162235122
 Prefab:
   m_ObjectHideFlags: 0
@@ -2364,8 +2363,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 387.90414, y: -209.64783}
-  m_SizeDelta: {x: 251.93608, y: 419.29565}
+  m_AnchoredPosition: {x: 453.09882, y: -245.40865}
+  m_SizeDelta: {x: 295.3992, y: 490.8173}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1814388583
 MonoBehaviour:
@@ -2771,7 +2770,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1918414159}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 10.56, y: -1.13, z: -0.3515625}
+  m_LocalPosition: {x: 11.84, y: -1.13, z: -0.3515625}
   m_LocalScale: {x: 1.2290262, y: 0.10874863, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2788,7 +2787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cc5e3af30ff28f48bf0285f6f11bcab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectionCanvas: {fileID: 1924905193}
+  selectionCanvas: {fileID: 0}
 --- !u!61 &1918414164
 BoxCollider2D:
   m_ObjectHideFlags: 0

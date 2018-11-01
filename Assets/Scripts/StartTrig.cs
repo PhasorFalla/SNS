@@ -26,8 +26,17 @@ public class StartTrig : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Time.timeScale = 0f;
-            selectionCanvas.SetActive(true);
+            if(selectionCanvas != null)
+            {
+                Time.timeScale = 0f;
+                selectionCanvas.SetActive(true);
+            }
+            else
+            {
+                LoadScene("Main");
+            }
+
+            
         }
     }
 }
