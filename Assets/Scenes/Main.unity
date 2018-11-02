@@ -113,6 +113,48 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &3868727
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1363453749}
+    m_Modifications:
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 10.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4931217381211302, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 93b029210435ba444ac5d5c45dfbbcee, type: 2}
+  m_IsPrefabParent: 0
 --- !u!4 &11684921 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
@@ -1228,7 +1270,9 @@ Prefab:
       propertyPath: m_Name
       value: Ninja Star_player
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 199440623440917308, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
+    - {fileID: 198902723872846182, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a5dc592df0a13ee42bb4c375d40e6b3c, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &235338488
