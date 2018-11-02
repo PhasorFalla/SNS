@@ -741,8 +741,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 115005423}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.8059993, y: 520.6, z: 0.3515625}
-  m_LocalScale: {x: 0.025354344, y: 3.149793, z: 0.59699}
+  m_LocalPosition: {x: 5.1139, y: 478, z: 0.3515625}
+  m_LocalScale: {x: 0.016777053, y: 5.449265, z: 1.032816}
   m_Children: []
   m_Father: {fileID: 438201746}
   m_RootOrder: 1
@@ -760,6 +760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fireworks: []
   resultCanvas: {fileID: 2065119225}
+  backgroundBubbles: {fileID: 2063081364}
   endTrigger: 1
 --- !u!61 &115005426
 BoxCollider2D:
@@ -932,6 +933,48 @@ Prefab:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1001 &122220247
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1102251088}
+    m_Modifications:
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -8.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 5.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 1a64fe5fcad88f443bd9368e1ac3b65a, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &142999839
 GameObject:
@@ -1440,8 +1483,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 279956701}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2509, y: 78, z: 253.1}
-  m_LocalScale: {x: 9.13331, y: 9.133316, z: 9.133316}
+  m_LocalPosition: {x: 2552, y: 81.401, z: 247.29}
+  m_LocalScale: {x: 9.794203, y: 9.794209, z: 9.794209}
   m_Children: []
   m_Father: {fileID: 522728756}
   m_RootOrder: 0
@@ -2423,6 +2466,7 @@ MonoBehaviour:
   spawnpoint: {fileID: 806974254}
   playerDeathSFX: {fileID: 0}
   GC: {fileID: 2017150522}
+  finished: 0
   dead: 0
   hurtPanel: {fileID: 645318810}
   deathPanel: {fileID: 1864092984}
@@ -6324,7 +6368,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.7499995, y: -0.5950265, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 2063081365}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8608,8 +8653,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1563378455}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2509, y: 31, z: 413.8}
-  m_LocalScale: {x: 9.13331, y: 9.13332, z: 9.13332}
+  m_LocalPosition: {x: 2552, y: 31, z: 419.61}
+  m_LocalScale: {x: 9.794203, y: 9.794212, z: 9.794212}
   m_Children: []
   m_Father: {fileID: 522728756}
   m_RootOrder: 1
@@ -9726,7 +9771,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'No one was expected to make it this far,
+  m_Text: 'You made it home finally,
 
     Thanks for playing!
 
@@ -10006,8 +10051,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1768657679}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.806, y: 266, z: 0.3515625}
-  m_LocalScale: {x: 0.025354339, y: 2.8396616, z: 0.59699446}
+  m_LocalPosition: {x: 4.6881, y: 41.6, z: 0.3515625}
+  m_LocalScale: {x: 0.0022901383, y: 5.004421, z: 0.59699446}
   m_Children: []
   m_Father: {fileID: 438201746}
   m_RootOrder: 0
@@ -10028,6 +10073,7 @@ MonoBehaviour:
   - {fileID: 1100478501}
   - {fileID: 659764180}
   resultCanvas: {fileID: 2065119225}
+  backgroundBubbles: {fileID: 0}
   endTrigger: 0
 --- !u!1001 &1780947166
 Prefab:
@@ -11644,9 +11690,9 @@ Canvas:
   m_GameObject: {fileID: 1958198772}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
-  m_PlaneDistance: 100
+  m_RenderMode: 1
+  m_Camera: {fileID: 1102251087}
+  m_PlaneDistance: 8
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -11923,7 +11969,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: StartMenu
+          m_StringArgument: Start
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -12263,6 +12309,16 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 541c3bb2570c060468f659a7b6edd88f, type: 3}
   m_PrefabInternal: {fileID: 2115494597}
+--- !u!1 &2063081364 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1129989050398328, guid: 1a64fe5fcad88f443bd9368e1ac3b65a,
+    type: 2}
+  m_PrefabInternal: {fileID: 122220247}
+--- !u!4 &2063081365 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4315075868433570, guid: 1a64fe5fcad88f443bd9368e1ac3b65a,
+    type: 2}
+  m_PrefabInternal: {fileID: 122220247}
 --- !u!1 &2065119225
 GameObject:
   m_ObjectHideFlags: 0

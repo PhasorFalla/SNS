@@ -13,6 +13,7 @@ public class TimeCounter : MonoBehaviour
 	
 	void Update ()
     {
+        if(FanReset.deathzone.finished == true) { return; }
         TimeCount += Time.deltaTime;
 
         float minutes = Mathf.Floor(TimeCount / 60);

@@ -7,6 +7,7 @@ public class EndTrigger : MonoBehaviour
 {
     public ParticleSystem[] fireworks;
     public GameObject resultCanvas;
+    public GameObject backgroundBubbles;
     public bool endTrigger;
     private bool endResults;
 
@@ -17,6 +18,8 @@ public class EndTrigger : MonoBehaviour
 
     
 
+
+
     public void TriggerFireworks()
     {
         if(fireworks.Length < 1 || fireworks[0] == null) { return; }
@@ -24,6 +27,16 @@ public class EndTrigger : MonoBehaviour
         {
             firework.Play();
         }
+    }
+
+    public void EndLevel()
+    {
+        Camera.main.orthographicSize = 7f;
+        Camera.main.GetComponent<CameraFollower>().enabled = false;
+        resultCanvas.SetActive(true);
+        backgroundBubbles.SetActive(true);
+        endResults = true;
+        FanReset.deathzone.finished = true;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -39,9 +52,8 @@ public class EndTrigger : MonoBehaviour
             }
             else
             {
-                resultCanvas.SetActive(true);
-                endResults = true;
-                Time.timeScale = 0f;
+                EndLevel();
+                
             }
         }
     }

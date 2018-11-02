@@ -17,7 +17,8 @@ public class GameController : MonoBehaviour {
 
     void Update ()
     {
-		if(Input.GetKeyDown (KeyCode.Escape))
+        if (FanReset.deathzone.finished == true) { return; }
+        if (Input.GetKeyDown (KeyCode.Escape))
         {
             Pause();
         }

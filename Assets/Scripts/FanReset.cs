@@ -12,6 +12,7 @@ public class FanReset : MonoBehaviour
     public AudioClip playerDeathSFX;
     private GameObject entityToReset;
     public GameController GC;
+    public bool finished;
 
     [HideInInspector]
     public bool dead;
