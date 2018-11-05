@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class PulseMine : MonoBehaviour
 {
-    public GameObject target;
+    private GameObject target;
     public float collisionDst;
     public float power;
     bool player;
 
+    private void Start()
+    {
+        player = FanReset.deathzone.player;
+    }
 
     private void OnDrawGizmos()
     {
