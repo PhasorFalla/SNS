@@ -936,7 +936,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Tyla Campbell
+  m_Text: Tyla Campbell & Karina Peneha
 --- !u!222 &902302028
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1010,7 +1010,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Karina Peneha, Alexey Botkov
+  m_Text: Alexey Botkov & Gage Boozan
 --- !u!222 &967345020
 CanvasRenderer:
   m_ObjectHideFlags: 0
