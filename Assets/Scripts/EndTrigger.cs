@@ -12,8 +12,8 @@ public class EndTrigger : MonoBehaviour
     public Transform start;
     public Transform end;
 
-    public float randomStart;
-    public float randomEnd;
+    private float randomStart = 0.1f;
+    private float randomEnd = 0.3f;
 
     public bool endTrigger;
     private bool endResults;
