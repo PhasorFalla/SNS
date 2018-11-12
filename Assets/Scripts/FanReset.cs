@@ -62,6 +62,7 @@ public class FanReset : MonoBehaviour
         ScoreManager.scoreManager.DeathCount();
         entity.transform.position = spawnpoint.position;
         entity.transform.rotation = Quaternion.Euler(0, 0, 0);
+        entity.GetComponent<Movement>().IsGrounded = true;
     }
 
     IEnumerator FadeHurt()

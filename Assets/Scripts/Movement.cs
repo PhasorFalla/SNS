@@ -32,6 +32,7 @@ public class Movement : MonoBehaviour
     {
         if(FanReset.deathzone.dead == true)
         {
+
             if(Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.A))
             {
                 FanReset.deathzone.dead = false;
