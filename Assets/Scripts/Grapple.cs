@@ -15,9 +15,10 @@ public class Grapple : MonoBehaviour
     public float distance = 10f;
     public LayerMask mask;
     public bool tethered;
-    public AudioClip tetherSFX;
+    public AudioClip[] tetherSFX;
     public AudioClip bubblePopSFX;
     public bool aimAssist;
+    private int lastSFX;
     Movement playerMovement;
 
     // Use this for initialization
@@ -70,18 +71,11 @@ public class Grapple : MonoBehaviour
                 line.enabled = true;
                 line.SetPosition(0, transform.position);
                 line.SetPosition(1, hit.point);
-
-                if (aimAssist) { aimSight.enabled = false; }
-                
-
-                tethered = true;
-
-                if(bubble != null) { bubble.SetActive(false); }
-
-                if (tetherSFX != null) { AudioManager.audioManager.PlaySound(tetherSFX); }
-                if(bubblePopSFX != null) { AudioManager.audioManager.PlaySound(bubblePopSFX); }
-                if(gutParticle != null) { gutParticle.Play(); }
                 playerMovement.timesJumped = 0;
+
+                TetherShot();
+
+                
             }
         }
 
@@ -97,6 +91,24 @@ public class Grapple : MonoBehaviour
         {
             Detatch();
         }
+    }
+
+    public void TetherShot()
+    {
+        if (aimAssist) { aimSight.enabled = false; }
+        if (bubblePopSFX != null) { AudioManager.audioManager.PlaySound(bubblePopSFX); }
+        if (gutParticle != null) { gutParticle.Play(); }
+        if (bubble != null) { bubble.SetActive(false); }
+        tethered = true;
+
+        int r = Random.Range(0, tetherSFX.Length);
+        if(r == lastSFX)
+        {
+            r = Random.Range(0, tetherSFX.Length);
+        }
+
+        lastSFX = r;
+        AudioManager.audioManager.PlaySound(tetherSFX[lastSFX]);
     }
 
     public void PlayerDeath()
