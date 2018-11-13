@@ -99,6 +99,13 @@ public class Grapple : MonoBehaviour
         }
     }
 
+    public void PlayerDeath()
+    {
+        Detatch();
+        playerMovement.timesJumped = 0;
+        print("detached");
+    }
+
     public void Detatch()
     {
         joint.enabled = false;

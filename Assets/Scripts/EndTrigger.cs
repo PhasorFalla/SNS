@@ -23,6 +23,7 @@ public class EndTrigger : MonoBehaviour
         endResults = false;
     }
 
+    
 
     private void OnDrawGizmos()
     {
@@ -81,7 +82,7 @@ public class EndTrigger : MonoBehaviour
         for(int i = 0; i< fireworks.Length; i++)
         {
             var time = Random.Range(randomStart, randomEnd);
-            Vector3 pos = new Vector3(Random.RandomRange(start.position.x, end.position.x), transform.position.y, transform.position.z);
+            Vector3 pos = new Vector3(Random.RandomRange(start.position.x, end.position.x), transform.position.y, start.position.z);
             yield return new WaitForSeconds(time);
             ParticleSystem boom = Instantiate(fireworks[i], pos, transform.rotation);
             boom.Play();

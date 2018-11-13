@@ -46,12 +46,12 @@ public class FanReset : MonoBehaviour
     public void ResetEntity(GameObject entity)
     {
         GC.ResetScene();
-        if(playerDeathSFX != null)
+        if (playerDeathSFX != null)
         {
             AudioManager.audioManager.PlaySound(playerDeathSFX);
         }
 
-        if(entity.GetComponent<Rigidbody2D>() != null)
+        if (entity.GetComponent<Rigidbody2D>() != null)
         {
             entity.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         }
@@ -62,7 +62,7 @@ public class FanReset : MonoBehaviour
         ScoreManager.scoreManager.DeathCount();
         entity.transform.position = spawnpoint.position;
         entity.transform.rotation = Quaternion.Euler(0, 0, 0);
-        entity.GetComponent<Movement>().IsGrounded = true;
+        entity.GetComponent<Grapple>().PlayerDeath();
     }
 
     IEnumerator FadeHurt()
