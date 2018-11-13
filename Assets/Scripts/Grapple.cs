@@ -102,8 +102,7 @@ public class Grapple : MonoBehaviour
     public void PlayerDeath()
     {
         Detatch();
-        playerMovement.timesJumped = 0;
-        print("detached");
+        playerMovement.timesJumped = 1;
     }
 
     public void Detatch()
