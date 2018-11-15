@@ -52,6 +52,8 @@ public class Grapple : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (GameController.gameController.isPaused == true) { return; }
+
         LineAim();
         straps.transform.position = transform.position;
 

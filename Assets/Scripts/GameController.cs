@@ -10,8 +10,11 @@ public class GameController : MonoBehaviour {
     public GameObject GameWorldSource;
     public GameObject currentGameWorld;
 
+    public static GameController gameController;
+
     private void Awake()
     {
+        gameController = this;
         ResetScene();
     }
 
