@@ -11,8 +11,6 @@ public class UIHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler,
 
     public void OnPointerEnter(PointerEventData pointerEventData)
     {
-        print("hover");
-
         AudioManager.audioManager.ButtonHover();
         if(Panel != null)
         {
@@ -24,7 +22,6 @@ public class UIHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler,
     public void OnPointerDown(PointerEventData pointerEventData)
     {
         AudioManager.audioManager.ButtonClick();
-        print("clicked");
     }
 
     public void OnPointerExit(PointerEventData pointerEventData)
