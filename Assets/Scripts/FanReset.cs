@@ -9,7 +9,6 @@ public class FanReset : MonoBehaviour
 
     public Transform spawnpoint;
     public static FanReset deathzone;
-    public AudioClip playerDeathSFX;
     private GameObject entityToReset;
     public GameController GC;
     public GameObject player;
@@ -46,10 +45,8 @@ public class FanReset : MonoBehaviour
     public void ResetEntity(GameObject entity)
     {
         GC.ResetScene();
-        if (playerDeathSFX != null)
-        {
-            AudioManager.audioManager.PlaySound(playerDeathSFX);
-        }
+
+        Fabric.EventManager.Instance.PostEvent("Misc/PlayerDeath", Camera.main.gameObject);
 
         if (entity.GetComponent<Rigidbody2D>() != null)
         {

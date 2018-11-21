@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public AudioClip deathSFX;
     public GameObject deathVFX;
 
     private void Start()
@@ -37,10 +36,8 @@ public class Enemy : MonoBehaviour
 
     public void EnemyDeath()
     {
-        if(deathSFX != null)
-        {
-            AudioManager.audioManager.PlaySound(deathSFX);
-        }
+        Fabric.EventManager.Instance.PostEvent("Misc/EnemyDeath", Camera.main.gameObject);
+
         Instantiate(deathVFX, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }

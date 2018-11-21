@@ -11,7 +11,6 @@ public class CheckpointSystem : MonoBehaviour
     public ParticleSystem burst;
     public GameObject checkpointLight;
     public Material mat;
-    public AudioClip checkpointSFX;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -21,7 +20,7 @@ public class CheckpointSystem : MonoBehaviour
             if(FanReset.deathzone.spawnpoint != Spawnpoint)
             {
                 FanReset.deathzone.spawnpoint = Spawnpoint;
-                if (checkpointSFX != null) { AudioManager.audioManager.PlaySound(checkpointSFX); } //sound clip
+                Fabric.EventManager.Instance.PostEvent("Misc/Checkpoint", Camera.main.gameObject);
                 burst.Play();
                 onBeacon.emissionRate = 5;
                 offBeacon.emissionRate = 0;

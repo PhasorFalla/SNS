@@ -15,8 +15,6 @@ public class Grapple : MonoBehaviour
     public float distance = 10f;
     public LayerMask mask;
     public bool tethered;
-    public AudioClip[] tetherSFX;
-    public AudioClip bubblePopSFX;
     public bool aimAssist;
     private int lastSFX;
     Movement playerMovement;
@@ -103,19 +101,12 @@ public class Grapple : MonoBehaviour
     public void TetherShot()
     {
         if (aimAssist) { aimSight.enabled = false; }
-        if (bubblePopSFX != null) { AudioManager.audioManager.PlaySound(bubblePopSFX); }
         if (gutParticle != null) { gutParticle.Play(); }
         if (bubble != null) { bubble.SetActive(false); }
         tethered = true;
 
-        int r = Random.Range(0, tetherSFX.Length);
-        if(r == lastSFX)
-        {
-            r = Random.Range(0, tetherSFX.Length);
-        }
+        Fabric.EventManager.Instance.PostEvent("Misc/Tether", Camera.main.gameObject);
 
-        lastSFX = r;
-        AudioManager.audioManager.PlaySound(tetherSFX[lastSFX]);
     }
 
     public void PlayerDeath()

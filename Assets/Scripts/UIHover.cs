@@ -11,8 +11,8 @@ public class UIHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler,
 
     public void OnPointerEnter(PointerEventData pointerEventData)
     {
-        AudioManager.audioManager.ButtonHover();
-        if(Panel != null)
+        Fabric.EventManager.Instance.PostEvent("UI/UIHover", Camera.main.gameObject);
+        if (Panel != null)
         {
             Panel.SetActive(true);
 
@@ -21,7 +21,7 @@ public class UIHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler,
 
     public void OnPointerDown(PointerEventData pointerEventData)
     {
-        AudioManager.audioManager.ButtonClick();
+        Fabric.EventManager.Instance.PostEvent("UI/UISelect", Camera.main.gameObject);
     }
 
     public void OnPointerExit(PointerEventData pointerEventData)
