@@ -47,6 +47,10 @@ public class Grapple : MonoBehaviour
         pos.z = 0;
         aimSight.SetPosition(0, transform.position);
         aimSight.SetPosition(1, pos);
+        Vector2 offset = pos - transform.position;
+        Vector3 mouse = transform.position + Vector3.ClampMagnitude(offset, distance);
+        mouse.z = 0f;
+        aimSight.SetPosition(1, mouse);
     }
 
     // Update is called once per frame
