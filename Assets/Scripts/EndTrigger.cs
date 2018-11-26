@@ -12,10 +12,11 @@ public class EndTrigger : MonoBehaviour
     public Transform start;
     public Transform end;
 
-    private float randomStart = 0.1f;
-    private float randomEnd = 0.3f;
+    private float randomStart = 0.3f;
+    private float randomEnd = 1f;
 
     public bool endTrigger;
+    bool fired;
     private bool endResults;
 
     private void Start()
@@ -64,7 +65,12 @@ public class EndTrigger : MonoBehaviour
         {
             if (!endTrigger)
             {
-                StartCoroutine(FireworkTimer());
+                if (!fired)
+                {
+                    fired = true;
+                    StartCoroutine(FireworkTimer());
+
+                }
 
             }
             else
@@ -77,7 +83,6 @@ public class EndTrigger : MonoBehaviour
 
     public IEnumerator FireworkTimer()
     {
-        //var time = Random.Range(randomStart, randomEnd);
 
         for(int i = 0; i< fireworks.Length; i++)
         {
@@ -89,7 +94,8 @@ public class EndTrigger : MonoBehaviour
             boom = null;
         }
 
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(4f);
+
         StartCoroutine(FireworkTimer());
 
         yield break;

@@ -45,6 +45,7 @@ function Build(src)
 
     let main = `
         <div id="section">
+        <h2>Super Ninja Star</h2>
             <p>${src.logline}</p>
             ${src.description.map((item, i) => `<p>${src.description[i]}</p>`).join('')}
         </div>
