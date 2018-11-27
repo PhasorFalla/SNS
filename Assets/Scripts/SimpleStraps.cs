@@ -6,6 +6,11 @@ public class SimpleStraps : MonoBehaviour {
 
     public GameObject Player;
 
+    private void Start()
+    {
+        Fabric.EventManager.Instance.PostEvent("Music/Start", Camera.main.gameObject);
+    }
+
     public void Update()
     {
         var pos = new Vector3(Player.transform.position.x, Player.transform.position.y, 0);

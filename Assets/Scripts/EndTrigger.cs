@@ -68,6 +68,7 @@ public class EndTrigger : MonoBehaviour
                 if (!fired)
                 {
                     fired = true;
+                    Fabric.EventManager.Instance.PostEvent("Misc/Firework", Camera.main.gameObject);
                     StartCoroutine(FireworkTimer());
 
                 }
