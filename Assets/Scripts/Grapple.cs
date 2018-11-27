@@ -121,6 +121,10 @@ public class Grapple : MonoBehaviour
         line.enabled = false;
         if (aimAssist) { aimSight.enabled = true; }
         tethered = false;
-        bubble.SetActive(true);
+        if(bubble != null)
+        {
+            bubble.SetActive(true);
+
+        }
     }
 }
