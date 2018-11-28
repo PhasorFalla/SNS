@@ -15,7 +15,6 @@ public class GameController : MonoBehaviour {
     private void Awake()
     {
         gameController = this;
-        Fabric.EventManager.Instance.PostEvent("Music/Main", Camera.main.gameObject);
         ResetScene();
     }
 

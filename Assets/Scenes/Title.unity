@@ -1427,6 +1427,70 @@ Prefab:
       propertyPath: _audioClip
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114947934662808858, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _panLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114996760411844832, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _panLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114941548114717474, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _panLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _volume
+      value: 0.5011872
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeInTime
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeInCurve
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeOutCurve
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeOutTime
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: bd61c5a8c5dd9cd47b97a57e844136a9, type: 3}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _overrideFadeProperties
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _delay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1913140665149854, guid: 897f90d72b3c6204eb70b4dff056c7d6, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 897f90d72b3c6204eb70b4dff056c7d6, type: 2}
   m_IsPrefabParent: 0

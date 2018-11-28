@@ -8,9 +8,8 @@ public class StartTrig : MonoBehaviour
 
     public GameObject selectionCanvas;
 
-    private void Start()
+    private void Awake()
     {
-        Fabric.EventManager.Instance.PostEvent("Music/Main", Camera.main.gameObject);
     }
 
     public void LoadScene(string scene)

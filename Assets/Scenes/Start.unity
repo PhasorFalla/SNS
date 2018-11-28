@@ -1781,6 +1781,91 @@ Prefab:
       propertyPath: m_RootOrder
       value: 18
       objectReference: {fileID: 0}
+    - target: {fileID: 114947934662808858, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _panLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114996760411844832, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _panLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114941548114717474, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _panLevel
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _volume
+      value: 0.4216965
+      objectReference: {fileID: 0}
+    - target: {fileID: 114827051464666168, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _dontDestroyOnLoad
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _dontStopOnDestroy
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114467831335867026, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 501fb28f65e95c3418e7107d05306fc3, type: 3}
+    - target: {fileID: 114310380741014894, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _volume
+      value: 0.63095737
+      objectReference: {fileID: 0}
+    - target: {fileID: 114467831335867026, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _volume
+      value: 0.56234133
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeInTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeOutTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeInTime
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114723522356786464, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeOutTime
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeOutCurve
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _fadeInCurve
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114330207876145276, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+        type: 2}
+      propertyPath: _overrideFadeProperties
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 897f90d72b3c6204eb70b4dff056c7d6, type: 2}
   m_IsPrefabParent: 0
@@ -2674,6 +2759,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1889972199 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1788515353040650, guid: 897f90d72b3c6204eb70b4dff056c7d6,
+    type: 2}
+  m_PrefabInternal: {fileID: 1199279123}
+--- !u!114 &1889972202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1889972199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41958b932cceb2a428633c8faef6ff93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1893871975
 Prefab:
   m_ObjectHideFlags: 0
